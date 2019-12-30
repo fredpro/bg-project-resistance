@@ -1,0 +1,36 @@
+﻿PAGE=21,29.7,PORTRAIT,H
+cardsize=4,6
+link=clue_cards_data.txt
+[all]="1-{(Position)*2}"
+[all_recto]="1-{(Position)}"
+[all_verso]="{(Position)+1}-{(Position)*2}"
+[pos_description]=0.25,2.5,3.5,2
+[pos_lieux]=0.25,4,3.5,1.75
+[pos_lbl_verso]=0,0,4,6
+
+[middle]="center","center"
+[white]=#FFFFFF
+[black]=#000000
+[bg]=#DD4433
+
+[FONT_DESCRIPTION]="arial",12, T, [black]
+[FONT_LIEUX]="arial",7, TI, [black]
+[FONT_VERSO]="arial",24, TB, [black]
+
+rectangle=[all_recto],0,0,4,6,[black]
+rectangle=[all_recto],0.1,0.1,3.8,5.8,[bg]
+
+FONT=[FONT_DESCRIPTION]
+TEXT=[all_recto],[Position],[pos_description],center,wordwrap
+
+FONT=[FONT_LIEUX]
+TEXT=[all_recto],"([Region])",[pos_lieux],center,wordwrap
+
+FONT=[FONT_VERSO]
+TEXT=[all_verso],"Indice",[pos_lbl_verso],[middle]
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=0,0,0,0
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

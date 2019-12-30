@@ -1,0 +1,23 @@
+ID,Nom,Reticence,Communication,Militaire,Ingenierie,Skill,Skill_Title,Skill_Desc,Chara_icon,Relationship
+B,Harvey Pringle,2,3,4,2,,,,,2.21875
+C,Fergus Flynn,2,3,3,3,,,,,2.0625
+F,Victor Grice,4,3,3,3,,,,,2.5
+G,Frederico Garcia,2,5,3,1,,,,,2.03125
+H,Homer Wright,2,3,3,3,,,,,2.0625
+I,Harry Cropper,2,3,2,4,,,,,2.1875
+J,Shigeru Iwamoto,2,5,2,2,,,,,2.15625
+K,Bill Doughty,2,4,3,2,,,,,2.125
+M,Bob Hammond,2,4,3,2,,,,,2.09375
+N,Oliver Jessop,2,3,3,3,,,,,2.09375
+O,Barnaby Gaunt,3,3,2,4,,,,,2.28125
+P,Kurt Muller,2,5,3,1,,,,,2.03125
+Q,Luke Jackson,3,1,3,5,,,,,2.4375
+T,Karl Rudzinski,2,2,2,5,,,,,2.21875
+U,Jean-Luc Chabrun,5,1,5,3,,,,,2.84375
+V,Pierre Revel,3,3,5,1,,,,,2.4375
+W,Konrad Rudel,4,2,5,2,,,,,2.6875
+Y,Olaf Kristiansen,2,2,2,5,,,,,2
+Z,Jeremiah Gunn,5,1,3,5,,,,,2.75
+AA,Davy Hart,3,5,1,3,,,,,2.3125
+AD,Gregory Flint,2,3,2,4,,,,,2
+AF,Gordon McLeod,1,3,2,4,,,,,1.84375

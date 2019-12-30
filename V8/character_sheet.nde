@@ -1,0 +1,245 @@
+link=character_sheets_data.txt
+PAGE=21,29.7,LANDSCAPE
+cardsize=20,13
+[all]="1-{(ID)*2}"
+[all_recto]="1-{(ID)}"
+[all_verso]="{(ID)+1}-{(ID)*2}"
+[middle]="center","center"
+[left]="left","wwcenter"
+[pos_bg]=0,0,20,13
+[circle_diam]=2,2
+[pos_circle_ID]=0.5,0.5,[circle_diam]
+[pos_name]=3,0.5,7,2
+[pos_base_ap]=2,1,5,0.5
+[pos_txt_move]=10,0.5,4,2
+[pos_circle_move_1]=13.2,0.75,1.5,1.5
+[pos_circle_move_2]=14.9,0.75,1.5,1.5
+[pos_circle_move_3]=16.6,0.75,1.5,1.5
+[pos_circle_move_4]=18.3,0.75,1.5,1.5
+[pos_txt_skill_Com]=0.5,3,4,0.5
+[pos_circle_skill_Com_1]=0.5,3.7,[circle_diam]
+[pos_circle_skill_Com_2]=2.7,3.7,[circle_diam]
+[pos_circle_skill_Com_3]=4.9,3.7,[circle_diam]
+[pos_circle_skill_Com_4]=7.1,3.7,[circle_diam]
+[pos_circle_skill_Com_5]=9.3,3.7,[circle_diam]
+[pos_circle_skill_Com_6]=11.5,3.7,[circle_diam]
+[pos_txt_skill_Mil]=0.5,6,4,0.5
+[pos_circle_skill_Mil_1]=0.5,6.7,[circle_diam]
+[pos_circle_skill_Mil_2]=2.7,6.7,[circle_diam]
+[pos_circle_skill_Mil_3]=4.9,6.7,[circle_diam]
+[pos_circle_skill_Mil_4]=7.1,6.7,[circle_diam]
+[pos_circle_skill_Mil_5]=9.3,6.7,[circle_diam]
+[pos_circle_skill_Mil_6]=11.5,6.7,[circle_diam]
+[pos_txt_skill_Ing]=0.5,9,4,0.5
+[pos_circle_skill_Ing_1]=0.5,9.7,[circle_diam]
+[pos_circle_skill_Ing_2]=2.7,9.7,[circle_diam]
+[pos_circle_skill_Ing_3]=4.9,9.7,[circle_diam]
+[pos_circle_skill_Ing_4]=7.1,9.7,[circle_diam]
+[pos_circle_skill_Ing_5]=9.3,9.7,[circle_diam]
+[pos_circle_skill_Ing_6]=11.5,9.7,[circle_diam]
+[pos_h_line]=0.5,2.75,19.5,2.75
+[pos_v_line]=14,2.75,14,12
+;[pos_spec_skill_title]=10,0.75,9.5,0.5
+;[pos_spec_skill_desc]=10,1.25,9.5,2
+[pos_spec_skill_title]=14.5,3,5,1.5
+[pos_spec_skill_desc]=14.5,4.5,5,13.5
+[pos_counter_success_title]=14.5,3,5,0.5
+[pos_counter_success_desc]=14.5,3.5,5,15
+[pos_x_counter_success_squares]=15.2
+[pos_y_counter_success_squares]=5.5
+[pos_text_upgrade]=18.75,7,1,4
+[pos_upgrade]=19.5,6,1,6
+[pos_text_obj1]=0.5,12,4,0.5
+[pos_obj1]=0.5,12.5,4,1
+[pos_text_obj2]=5.5,12,4,0.5
+[pos_obj2]=5.5,12.5,4,1
+[pos_text_obj3]=10.5,12,4,0.5
+[pos_obj3]=10.5,12.5,4,1
+[pos_text_obj4]=15.5,12,4,0.5
+[pos_obj4]=15.5,12.5,4,1
+
+[pos_lbl_verso]=0,0,20,13
+
+[white]=#FFFFFF
+[black]=#000000
+
+[FONT_ID]="arial",12, TB, [white]
+[FONT_NAME]="arial",18, TB, [black]
+[FONT_SKILL]="arial",12, TB, [black]
+[FONT_SPEC_SKILL_TITLE]="arial",14, TB, [black]
+[FONT_SPEC_SKILL_DESC]="arial",11, T, [black]
+[FONT_SUCCESS_COUNTER_TITLE]="arial",11, TBI, [black]
+[FONT_SUCCESS_COUNTER_DESC]="arial",10, TI, [black]
+[FONT_CARDS]="arial",10, T, [black]
+[FONT_VERSO]="arial",32, TB, [black]
+
+RECTANGLE=[all_recto],[pos_bg],[black],EMPTY,0.2
+ellipse=[all_recto],[pos_circle_ID],#0000FF
+
+FONT=[FONT_ID]
+TEXT=[all_recto],[ID],[pos_circle_ID],[middle]
+
+FONT=[FONT_NAME]
+TEXT=[all_recto],[Nom],[pos_name],[left]
+
+FONT=[FONT_SKILL]
+TEXT=[all_recto],"Déplacement :",[pos_txt_move],[left]
+TEXT=[all_recto],"Communication :",[pos_txt_skill_Com],[left]
+TEXT=[all_recto],"Militaire :",[pos_txt_skill_Mil],[left]
+TEXT=[all_recto],"Ingénierie :",[pos_txt_skill_Ing],[left]
+
+[FILL_COLOR]=#AA2222
+
+IF=[Deplacement]>=1
+    ellipse=[all_recto],[pos_circle_move_1],[FILL_COLOR]
+ENDIF
+IF=[Deplacement]>=2
+    ellipse=[all_recto],[pos_circle_move_2],[FILL_COLOR]
+ENDIF
+IF=[Deplacement]>=3
+    ellipse=[all_recto],[pos_circle_move_3],[FILL_COLOR]
+ENDIF
+IF=[Deplacement]>=4
+    ellipse=[all_recto],[pos_circle_move_4],[FILL_COLOR]
+ENDIF
+
+IF=[Communication]>=1
+    ellipse=[all_recto],[pos_circle_skill_Com_1],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Com_1],[black],EMPTY,0.05
+    text=[all_recto],"1+",[pos_circle_skill_Com_1],[middle]
+ENDIF
+IF=[Communication]>=2
+    ellipse=[all_recto],[pos_circle_skill_Com_2],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Com_2],[black],EMPTY,0.05
+    text=[all_recto],"2+",[pos_circle_skill_Com_2],[middle]
+ENDIF
+IF=[Communication]>=3
+    ellipse=[all_recto],[pos_circle_skill_Com_3],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Com_3],[black],EMPTY,0.05
+    text=[all_recto],"3+",[pos_circle_skill_Com_3],[middle]
+ENDIF
+IF=[Communication]>=4
+    ellipse=[all_recto],[pos_circle_skill_Com_4],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Com_4],[black],EMPTY,0.05
+    text=[all_recto],"4+",[pos_circle_skill_Com_4],[middle]
+ENDIF
+IF=[Communication]>=5
+    ellipse=[all_recto],[pos_circle_skill_Com_5],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Com_5],[black],EMPTY,0.05
+    text=[all_recto],"5+",[pos_circle_skill_Com_5],[middle]
+ENDIF
+ellipse=[all_recto],[pos_circle_skill_Com_6],[black],EMPTY,0.05
+text=[all_recto],"6+",[pos_circle_skill_Com_6],[middle]
+
+IF=[Militaire]>=1
+    ellipse=[all_recto],[pos_circle_skill_Mil_1],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Mil_1],[black],EMPTY,0.05
+    text=[all_recto],"1+",[pos_circle_skill_Mil_1],[middle]
+ENDIF
+IF=[Militaire]>=2
+    ellipse=[all_recto],[pos_circle_skill_Mil_2],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Mil_2],[black],EMPTY,0.05
+    text=[all_recto],"2+",[pos_circle_skill_Mil_2],[middle]
+ENDIF
+IF=[Militaire]>=3
+    ellipse=[all_recto],[pos_circle_skill_Mil_3],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Mil_3],[black],EMPTY,0.05
+    text=[all_recto],"3+",[pos_circle_skill_Mil_3],[middle]
+ENDIF
+IF=[Militaire]>=4
+    ellipse=[all_recto],[pos_circle_skill_Mil_4],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Mil_4],[black],EMPTY,0.05
+    text=[all_recto],"4+",[pos_circle_skill_Mil_4],[middle]
+ENDIF
+IF=[Militaire]>=5
+    ellipse=[all_recto],[pos_circle_skill_Mil_5],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Mil_5],[black],EMPTY,0.05
+    text=[all_recto],"5+",[pos_circle_skill_Mil_5],[middle]
+ENDIF
+ellipse=[all_recto],[pos_circle_skill_Mil_6],[black],EMPTY,0.05
+text=[all_recto],"6+",[pos_circle_skill_Mil_6],[middle]
+
+IF=[Ingenierie]>=1
+    ellipse=[all_recto],[pos_circle_skill_Ing_1],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Ing_1],[black],EMPTY,0.05
+    text=[all_recto],"1+",[pos_circle_skill_Ing_1],[middle]
+ENDIF
+IF=[Ingenierie]>=2
+    ellipse=[all_recto],[pos_circle_skill_Ing_2],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Ing_2],[black],EMPTY,0.05
+    text=[all_recto],"2+",[pos_circle_skill_Ing_2],[middle]
+ENDIF
+IF=[Ingenierie]>=3
+    ellipse=[all_recto],[pos_circle_skill_Ing_3],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Ing_3],[black],EMPTY,0.05
+    text=[all_recto],"3+",[pos_circle_skill_Ing_3],[middle]
+ENDIF
+IF=[Ingenierie]>=4
+    ellipse=[all_recto],[pos_circle_skill_Ing_4],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Ing_4],[black],EMPTY,0.05
+    text=[all_recto],"4+",[pos_circle_skill_Ing_4],[middle]
+ENDIF
+IF=[Ingenierie]>=5
+    ellipse=[all_recto],[pos_circle_skill_Ing_5],[FILL_COLOR]
+ELSE
+    ellipse=[all_recto],[pos_circle_skill_Ing_5],[black],EMPTY,0.05
+    text=[all_recto],"5+",[pos_circle_skill_Ing_5],[middle]
+ENDIF
+ellipse=[all_recto],[pos_circle_skill_Ing_6],[black],EMPTY,0.05
+text=[all_recto],"6+",[pos_circle_skill_Ing_6],[middle]
+
+LINE=[all_recto],[pos_h_line],[black],0.05
+
+LINE=[all_recto],[pos_v_line],[black],0.05
+FONT=[FONT_SPEC_SKILL_TITLE]
+TEXT=[all_recto],"[Skill_Title] :",[pos_spec_skill_title],[left]
+FONT=[FONT_SPEC_SKILL_DESC]
+TEXT=[all_recto],"[Skill_Desc]",[pos_spec_skill_desc],left, wordwrap
+
+;FONT=[FONT_SUCCESS_COUNTER_TITLE]
+;TEXT=[all_recto],"Succès :",[pos_counter_success_title],left, wordwrap
+;FONT=[FONT_SUCCESS_COUNTER_DESC]
+;TEXT=[all_recto],"Accumulez les cubes d'actions réalisées et les soldats tués pour gagner un jeton Résistance",[pos_counter_success_desc],left, wordwrap
+;FOR = A,0,1
+;    FOR = B,0,3
+;        RECTANGLE = [all_recto], {[pos_x_counter_success_squares]+(A*1.4)}, {[pos_y_counter_success_squares]+(B*1.4)}, 1.4, 1.4,[black],#FFFFFFFF,0.05
+;        IF={A*B}=3
+;            IMAGE=[all_recto],"superhero.png",{[pos_x_counter_success_squares]+(A*1.4)+0.1}, {[pos_y_counter_success_squares]+(B*1.4)+0.1},1.2,1.2,0,"APN",100
+;        ENDIF
+;    NEXT
+;NEXT
+
+;FONT=[FONT_CARDS]
+;TEXT=[all_recto],"AMÉLIORATION",[pos_text_upgrade],center,center,270
+;RECTANGLE=[all_recto],[pos_upgrade],[black],EMPTY,0.02
+TEXT=[all_recto],"INVENTAIRE",[pos_text_obj1],center,center
+RECTANGLE=[all_recto],[pos_obj1],[black],EMPTY,0.02
+TEXT=[all_recto],"INVENTAIRE",[pos_text_obj2],center,center
+RECTANGLE=[all_recto],[pos_obj2],[black],EMPTY,0.02
+TEXT=[all_recto],"INVENTAIRE",[pos_text_obj3],center,center
+RECTANGLE=[all_recto],[pos_obj3],[black],EMPTY,0.02
+TEXT=[all_recto],"INVENTAIRE",[pos_text_obj4],center,center
+RECTANGLE=[all_recto],[pos_obj4],[black],EMPTY,0.02
+
+FONT=[FONT_VERSO]
+TEXT=[all_verso],"Héros",[pos_lbl_verso],[middle]
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=0,0,0,0
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

@@ -1,0 +1,17 @@
+cardsize=1,1
+link=vehicules_data.txt
+
+[all]=1-{(Type)}
+[middle]="center", "center"
+[pos_lbl_type]=0,0,1,0.5,[middle]
+[pos_lbl_status]=0,0.5,1,0.5,[middle]
+[col_rect_KO]=#AAAAAA
+[col_rect_OK]=#44FF44
+[col_txt]=#000000
+
+rectangle=[all],0,0,1,1,[col_rect_[Status]]
+
+font="arial",9,T,[col_txt]
+
+text=[all],[Type],[pos_lbl_type]
+text=[all],[Status],[pos_lbl_status]

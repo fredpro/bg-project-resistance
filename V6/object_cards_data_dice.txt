@@ -1,0 +1,111 @@
+﻿Titre,Description
+Outils,+1 réussite aux actions d'ingénierie
+Outils,+1 réussite aux actions d'ingénierie
+Outils,+1 réussite aux actions d'ingénierie
+Tenue de camouflage,+1 réussite aux actions militaires
+Tenue de camouflage,+1 réussite aux actions militaires
+Tenue de camouflage,+1 réussite aux actions militaires
+Smoking,+1 réussite aux actions de communication
+Smoking,+1 réussite aux actions de communication
+Smoking,+1 réussite aux actions de communication
+"Guide du bricoleur",ignore le malus du 1 sur le dé de chance pour les actions d'ingénierie
+"Guide du bricoleur",ignore le malus du 1 sur le dé de chance pour les actions d'ingénierie
+"Guide du bricoleur",ignore le malus du 1 sur le dé de chance pour les actions d'ingénierie
+"L'art de la guerre",ignore le malus du 1 sur le dé de chance pour les actions militaires
+"L'art de la guerre",ignore le malus du 1 sur le dé de chance pour les actions militaires
+"L'art de la guerre",ignore le malus du 1 sur le dé de chance pour les actions militaires
+"Négociations avancées",ignore le malus du 1 sur le dé de chance pour les actions de communication
+"Négociations avancées",ignore le malus du 1 sur le dé de chance pour les actions de communication
+"Négociations avancées",ignore le malus du 1 sur le dé de chance pour les actions de communication
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien

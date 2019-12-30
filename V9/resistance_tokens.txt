@@ -1,0 +1,18 @@
+﻿cardsize=2,2
+
+[all]=1-48
+[all_recto]=1-24
+[all_verso]=25-48
+[middle]="center", "center"
+[pos_icon]=0.25,0.25,1.5,1.5
+
+;ellipse=[all],0,0,2,2,#000000,EMPTY,0.0
+ellipse=[all],0,0,2,2,#FFBB00
+
+IMAGE=[all],"superhero.png",[pos_icon],0,"APN",100
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=2,2,2,2
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

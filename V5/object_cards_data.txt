@@ -1,0 +1,121 @@
+﻿Titre,Description
+Outils,+1 à la fabrication de bombe
+Outils,+1 à la fabrication de bombe
+Tenue de camouflage,+1 à l'activation de bombe
+Tenue de camouflage,+1 à l'activation de bombe
+Smoking,+1 aux actions d'interrogation
+Smoking,+1 aux actions d'interrogation
+"Guide du bricoleur",+1 aux actions de fouille
+"Guide du bricoleur",+1 aux actions de fouille
+"L'art de la guerre",+1 aux actions de tuerie
+"L'art de la guerre",+1 aux actions de tuerie
+"Négociations avancées",+1 au recrutement
+"Négociations avancées",+1 au recrutement
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Explosif,Nécessaire pour fabriquer une bombe (à combiner avec un Détonateur)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Détonateur,Nécessaire pour fabriquer une bombe (à combiner avec un Explosif)
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Retardateur,Utilisé à l'activation d'une bombe pour ne pas que le héros meurt
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Véhicule,Ajoute un jeton voiture ou bateau dans le lieu fouillé
+Jerricane d'essence,Bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien

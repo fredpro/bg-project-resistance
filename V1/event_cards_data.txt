@@ -1,0 +1,90 @@
+﻿Type_id,Type_name,Details
+Coll,Collaboration/Village,F3 +1
+Coll,Collaboration/Village,H3 +2
+Coll,Collaboration/Village,Q4 +1
+Coll,Collaboration/Village,T5 +1
+Coll,Collaboration/Village,G6 +1
+Coll,Collaboration/Village,I6 +2
+Coll,Collaboration/Village,L6 +1
+Coll,Collaboration/Village,M7 +1
+Coll,Collaboration/Village,E8 +2
+Coll,Collaboration/Village,H8 +1
+Coll,Collaboration/Village,R8 +1
+Coll,Collaboration/Village,U8 +1
+Coll,Collaboration/Village,C9 +1
+Coll,Collaboration/Village,Q9 +1
+Coll,Collaboration/Village,L10 +2
+Coll,Collaboration/Village,R10 +1
+Coll,Collaboration/Village,G11 +1
+Coll,Collaboration/Village,J11 +1
+Coll,Collaboration/Village,M11 +1
+Coll,Collaboration/Village,U11 +2
+Coll,Collaboration/Village,R12 +1
+Coll,Collaboration/Village,H13 +1
+Coll,Collaboration/Village,O13 +1
+Coll,Collaboration/Village,G14 +2
+Coll,Collaboration/Village,I14 +1
+Coll,Collaboration/Village,N14 +1
+Coll,Collaboration/Village,Q14 +1
+Coll,Collaboration/Village,V14 +1
+Coll,Collaboration/Village,J15 +1
+Coll,Collaboration/Village,L15 +1
+Coll,Collaboration/Village,S15 +2
+Coll,Collaboration/Village,I16 +1
+Coll,Collaboration/Village,M16 +1
+Coll,Collaboration/Village,U16 +1
+Coll,Collaboration/Village,D17 +1
+Coll,Collaboration/Village,K17 +1
+Coll,Collaboration/Village,S17 +1
+Coll,Collaboration/Village,V17 +2
+Coll,Collaboration/Village,F18 +1
+Coll,Collaboration/Village,I18 +1
+Coll,Collaboration/Village,U18 +1
+Coll,Collaboration/Village,G19 +1
+Coll,Collaboration/Village,M19 +2
+Coll,Collaboration/Village,Q19 +1
+Coll,Collaboration/Village,T19 +1
+Coll,Collaboration/Village,O20 +2
+Coll,Collaboration/Village,I21 +1
+Coll,Collaboration/Village,K21 +1
+Recr,Recrutement,
+Recr,Recrutement,
+Recr,Recrutement,
+Recr,Recrutement,
+Recr,Recrutement,
+Recr,Recrutement,
+Renf,Renfort,C5
+Renf,Renfort,J5
+Renf,Renfort,O6
+Renf,Renfort,T9
+Renf,Renfort,H10
+Renf,Renfort,O11
+Renf,Renfort,D12
+Renf,Renfort,V12
+Renf,Renfort,G16
+Renf,Renfort,Q17
+Renf,Renfort,O18
+Renf,Renfort,K19
+Deba,Débarquement*,F3
+Deba,Débarquement*,H3
+Deba,Débarquement*,Q4
+Deba,Débarquement*,T5
+Deba,Débarquement*,L6
+Deba,Débarquement*,U8
+Deba,Débarquement*,C9
+Deba,Débarquement*,G11
+Deba,Débarquement*,U11
+Deba,Débarquement*,V14
+Deba,Débarquement*,D17
+Deba,Débarquement*,V17
+Deba,Débarquement*,F18
+Deba,Débarquement*,G19
+Deba,Débarquement*,M19
+Deba,Débarquement*,Q19
+Deba,Débarquement*,T19
+Deba,Débarquement*,O20
+Deba,Débarquement*,I21
+Deba,Débarquement*,K21
+Inte,Intensification*,Invasion+1
+Inte,Intensification*,Invasion+1
+Inte,Intensification*,Invasion+1

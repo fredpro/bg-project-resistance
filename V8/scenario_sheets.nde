@@ -1,0 +1,49 @@
+link=scenarios_data.txt
+PAGE=21,29.7,LANDSCAPE
+cardsize=20,13
+[all]="1-{(Titre)*2}"
+[all_recto]="1-{(Titre)}"
+[all_verso]="{(Titre)+1}-{(Titre)*2}"
+[middle]="center","center"
+[left]="left","center"
+[pos_bg]=0,0,20,13
+[pos_title]=1,0.5,18,1
+[pos_story]=12,3,7,2
+[pos_duration]=12,4,7,1
+[pos_installation]=12,5,7,5
+[pos_rules]=12,10,7,3
+[pos_map]=1,1,10,12
+
+[pos_lbl_verso]=0,0,20,13
+
+[FONT_TITLE]="arial",18, TB, [black]
+[FONT_HEADER]="arial",10, TUB, [black]
+[FONT_STORY]="arial",10, T, [black]
+[FONT_DURATION]="arial",10, T, [black]
+[FONT_INSTALLATION]="arial",10, T, [black]
+[FONT_RULES]="arial",10, T, [black]
+[FONT_VERSO]="arial",32, TB, [black]
+
+[white]=#FFFFFF
+[black]=#000000
+
+FONT="arial",18, TB, [black]
+TEXT=[all_recto],[Titre],[pos_title],[middle]
+FONT="arial",12, T, [black]
+TEXT=[all_recto],"Contexte : [Story]",[pos_story],left,wwtop
+TEXT=[all_recto],"Durée : [Duration]",[pos_duration],left,wwtop
+FONT="arial",10, T, [black]
+TEXT=[all_recto],"Mise en place : \13\[Installation]",[pos_installation],left,wwtop
+TEXT=[all_recto],"Règles spéciales : \13\[Game rules]",[pos_rules],left,wwtop
+
+IMAGE=[all_recto],".\Scenarios\[Map]",[pos_map],0,"APN",100
+
+
+FONT="arial",32, TB, [black]
+TEXT=[all_verso],"Scénario",[pos_lbl_verso],[middle]
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=0,0,0,0
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

@@ -1,0 +1,36 @@
+Titre,Icon,Action Majeure,Icon maj,Action Mineure,Icon min,Nb de cartes
+Comme un chef,medal.svg,Réussir automatiquement la prochaine action entreprise avec le niveau maximum dans la compétence,success.svg,Réaliser une action normale en ignorant la présence des soldats,invisible.svg,5
+Comme un chef,medal.svg,Réussir automatiquement la prochaine action entreprise avec le niveau maximum dans la compétence,success.svg,Réaliser une action normale en ignorant la présence des soldats,invisible.svg,5
+Comme un chef,medal.svg,Réussir automatiquement la prochaine action entreprise avec le niveau maximum dans la compétence,success.svg,Réaliser une action normale en ignorant la présence des soldats,invisible.svg,5
+Comme un chef,medal.svg,Réussir automatiquement la prochaine action entreprise avec le niveau maximum dans la compétence,success.svg,Réaliser une action normale en ignorant la présence des soldats,invisible.svg,5
+Comme un chef,medal.svg,Réussir automatiquement la prochaine action entreprise avec le niveau maximum dans la compétence,success.svg,Réaliser une action normale en ignorant la présence des soldats,invisible.svg,5
+Transport aérien,chopper.svg,Se déplacer n'importe où de puis n'importe quel lieu en Hélicoptère,military-helicopter.svg,Se déplacer depuis une capitale innocuppée vers une autre capitale innocupée,chopper-1.svg,2
+Transport aérien,chopper.svg,Se déplacer n'importe où de puis n'importe quel lieu en Hélicoptère,military-helicopter.svg,Se déplacer depuis une capitale innocuppée vers une autre capitale innocupée,chopper-1.svg,2
+Transport routier,jeep.svg,"Se déplacer jusqu'à 4 fois, y compris à travers les routes de montagne",all-terrain-vehicle.svg,Emprunter une route de montagne,four-wheel-drive.svg,4
+Transport routier,jeep.svg,"Se déplacer jusqu'à 4 fois, y compris à travers les routes de montagne",all-terrain-vehicle.svg,Emprunter une route de montagne,four-wheel-drive.svg,4
+Transport routier,jeep.svg,"Se déplacer jusqu'à 4 fois, y compris à travers les routes de montagne",all-terrain-vehicle.svg,Emprunter une route de montagne,four-wheel-drive.svg,4
+Transport routier,jeep.svg,"Se déplacer jusqu'à 4 fois, y compris à travers les routes de montagne",all-terrain-vehicle.svg,Emprunter une route de montagne,four-wheel-drive.svg,4
+Mission commando,soldier-1.svg,Retirer jusqu'à 3 soldats (au total) dans le lieu où se trouve le joueur et les lieux voisins,gun.svg,Retirer jusqu'à deux soldats du lieu où se trouve le joueur,soldier.svg,4
+Mission commando,soldier-1.svg,Retirer jusqu'à 3 soldats (au total) dans le lieu où se trouve le joueur et les lieux voisins,gun.svg,Retirer jusqu'à deux soldats du lieu où se trouve le joueur,soldier.svg,4
+Mission commando,soldier-1.svg,Retirer jusqu'à 3 soldats (au total) dans le lieu où se trouve le joueur et les lieux voisins,gun.svg,Retirer jusqu'à deux soldats du lieu où se trouve le joueur,soldier.svg,4
+Mission commando,soldier-1.svg,Retirer jusqu'à 3 soldats (au total) dans le lieu où se trouve le joueur et les lieux voisins,gun.svg,Retirer jusqu'à deux soldats du lieu où se trouve le joueur,soldier.svg,4
+Révolte citoyenne,superhero.svg,"Prendre une carte Action héroïque au choix dans la défausse de cartes Action héroïque, sans poser de jeton ""Actions réalisée""",superhero-2.svg,"Piocher deux nouvelles cartes Action héroïque, en choisir une et défausser les autres, sans poser de jeton ""Action réalisée""",superhero-1.svg,3
+Révolte citoyenne,superhero.svg,"Prendre une carte Action héroïque au choix dans la défausse de cartes Action héroïque, sans poser de jeton ""Actions réalisée""",superhero-2.svg,"Piocher deux nouvelles cartes Action héroïque, en choisir une et défausser les autres, sans poser de jeton ""Action réalisée""",superhero-1.svg,3
+Révolte citoyenne,superhero.svg,"Prendre une carte Action héroïque au choix dans la défausse de cartes Action héroïque, sans poser de jeton ""Actions réalisée""",superhero-2.svg,"Piocher deux nouvelles cartes Action héroïque, en choisir une et défausser les autres, sans poser de jeton ""Action réalisée""",superhero-1.svg,3
+Fouille ciblée,loupe.svg,"Prendre une carte objet au choix dans la défausse d'objets, sans poser de jeton ""Actions réalisée""",magnifier.svg,"Piocher deux nouvelles cartes Objet, en choisir une et défausser les autres, sans poser de jeton ""Actions réalisée""",search.svg,3
+Fouille ciblée,loupe.svg,"Prendre une carte objet au choix dans la défausse d'objets, sans poser de jeton ""Actions réalisée""",magnifier.svg,"Piocher deux nouvelles cartes Objet, en choisir une et défausser les autres, sans poser de jeton ""Actions réalisée""",search.svg,3
+Fouille ciblée,loupe.svg,"Prendre une carte objet au choix dans la défausse d'objets, sans poser de jeton ""Actions réalisée""",magnifier.svg,"Piocher deux nouvelles cartes Objet, en choisir une et défausser les autres, sans poser de jeton ""Actions réalisée""",search.svg,3
+Enquête ciblée,question.svg,"Prendre une carte indice au choix dans la défausse d'indices, sans poser de jeton ""Actions réalisée""",user.svg,"Piocher deux nouvelles cartes Indice, en choisir une et défausser les autres, sans poser de jeton ""Action réalisée""",question-1.svg,3
+Enquête ciblée,question.svg,"Prendre une carte indice au choix dans la défausse d'indices, sans poser de jeton ""Actions réalisée""",user.svg,"Piocher deux nouvelles cartes Indice, en choisir une et défausser les autres, sans poser de jeton ""Action réalisée""",question-1.svg,3
+Enquête ciblée,question.svg,"Prendre une carte indice au choix dans la défausse d'indices, sans poser de jeton ""Actions réalisée""",user.svg,"Piocher deux nouvelles cartes Indice, en choisir une et défausser les autres, sans poser de jeton ""Action réalisée""",question-1.svg,3
+Ralentir l'ennemi,privacy.svg,Ne pas faire les 3 prochaines actions de l'armée,palm-of-hand.svg,"Jouer à l'avance les dés d'invasion, afin de connaître la prochaine action de l'armée",binoculars.svg,4
+Ralentir l'ennemi,privacy.svg,Ne pas faire les 3 prochaines actions de l'armée,palm-of-hand.svg,"Jouer à l'avance les dés d'invasion, afin de connaître la prochaine action de l'armée",binoculars.svg,4
+Ralentir l'ennemi,privacy.svg,Ne pas faire les 3 prochaines actions de l'armée,palm-of-hand.svg,"Jouer à l'avance les dés d'invasion, afin de connaître la prochaine action de l'armée",binoculars.svg,4
+Ralentir l'ennemi,privacy.svg,Ne pas faire les 3 prochaines actions de l'armée,palm-of-hand.svg,"Jouer à l'avance les dés d'invasion, afin de connaître la prochaine action de l'armée",binoculars.svg,4
+Echec,,Vous n'avez pas réussi à obtenir l'aide de la population,,,,7
+Echec,,Vous n'avez pas réussi à obtenir l'aide de la population,,,,7
+Echec,,Vous n'avez pas réussi à obtenir l'aide de la population,,,,7
+Echec,,Vous n'avez pas réussi à obtenir l'aide de la population,,,,7
+Echec,,Vous n'avez pas réussi à obtenir l'aide de la population,,,,7
+Echec,,Vous n'avez pas réussi à obtenir l'aide de la population,,,,7
+Echec,,Vous n'avez pas réussi à obtenir l'aide de la population,,,,7

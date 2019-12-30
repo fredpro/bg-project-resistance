@@ -1,0 +1,62 @@
+Lieu,Indice_1,Indice_2,Indice_3,Indice_4,Indice_5,Indice_6,Indice_7,Indice_8,Indice_9,Indice_10
+NE14,Régions N,Ville,Cité montagnarde
+NO13,Régions N,Ville,Cité maritime
+SO13,Régions S,Ville,Cité montagnarde
+SE13,Régions S,Ville,Cité maritime
+NE14,Régions E,Ville,Cité montagnarde
+SE13,Régions E,Ville,Cité maritime
+NE13,Régions E,Régions N,Ville,Cité campagnarde
+NE15,Régions E,Régions N,Capitale
+SE14,Régions E,Régions S,Ville,Cité campagnarde
+SE15,Régions E,Régions S,Capitale
+SO13,Régions O,Ville,Cité montagnarde
+NO13,Régions O,Ville,Cité maritime
+NO14,Régions O,Régions N,Ville,Cité campagnarde
+NO15,Régions O,Régions N,Capitale
+SO11,Régions O,Régions S,Village,Cité montagnarde
+SO14,Régions O,Régions S,Ville,Cité campagnarde
+SO15,Régions O,Régions S,Capitale
+NO4,1 route,Régions N,Cité campagnarde
+NO4,1 route,Régions N,Régions O,Cité campagnarde
+SE1,1 route,Régions S,Cité montagnarde
+SO1,1 route,Régions S,Cité campagnarde
+NE1,1 route,Régions E,Village,Régions N
+SE1,1 route,Régions E,Village,Régions S
+NE1,1 route,Régions E,Régions N
+SE1,1 route,Régions E,Régions S
+SO1,1 route,Régions O,Village,Régions S
+SO1,1 route,Régions O,Régions S
+SE2,2 routes,Village,Cité montagnarde
+SE2,2 routes,Village,Régions E,Cité montagnarde
+NE14,2 routes,Ville,Cité montagnarde
+NE14,2 routes,Régions N,Cité montagnarde
+SE2,2 routes,Régions S,Cité montagnarde
+SE13,2 routes,Régions S,Ville
+NE14,2 routes,Régions E,Régions N,Ville
+NO13,2 routes,Régions O,Ville
+SO13,3 routes,Ville,Cité montagnarde
+NE13,3 routes,Régions N,Ville
+NE13,3 routes,Régions N,Régions E,Ville
+SO13,3 routes,Régions S,Cité montagnarde
+SE14,3 routes,Régions S,Ville,Cité campagnarde
+NE9,3 routes,Régions E,Cité montagnarde
+NE9,3 routes,Régions E,Régions N,Cité montagnarde
+SE14,3 routes,Régions E,Régions S,Ville
+NO10,3 routes,Régions O,Village,Cité montagnarde
+SO13,3 routes,Régions O,Ville
+NO10,3 routes,Régions O,Régions N,Cité montagnarde
+NO14,4 routes ou plus,Régions N,Ville
+NO14,4 routes ou plus,Régions N,Régions O,Ville
+SO14,4 routes ou plus,Régions S,Ville
+SO14,4 routes ou plus,Régions S,Régions O,Ville
+SE12,4 routes ou plus,Régions E,Cité montagnarde
+NE15,4 routes ou plus,Régions E,Régions N,Cité campagnarde
+SE12,4 routes ou plus,Régions E,Régions S,Cité montagnarde
+SE15,4 routes ou plus,Régions E,Régions S,Cité campagnarde
+SE12,4 routes ou plus,Régions E,Régions S,Village
+SO11,4 routes ou plus,Régions O,Cité montagnarde
+SO11,4 routes ou plus,Régions O,Village
+SO11,4 routes ou plus,Régions O,Régions S,Cité montagnarde
+,
+,Échec
+,Échec relatif

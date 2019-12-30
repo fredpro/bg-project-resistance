@@ -1,0 +1,2 @@
+﻿Titre,Description,Nb de cartes
+Renforcer la surveillance,Supprimez deux cubes par région (dans l'ordre décroissant des numéros de zones),2

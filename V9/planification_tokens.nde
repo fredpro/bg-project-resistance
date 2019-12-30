@@ -1,0 +1,21 @@
+﻿cardsize=2,2
+
+[all]=1-30
+[all_recto]=1-15
+[all_verso]=16-30
+[middle]="center", "wwcenter"
+
+ellipse=[all_recto],0,0,2,2,#000000
+ellipse=[all_recto],0.025,0.025,1.95,1.95,#FFFFFF#EE2222@360
+ellipse=[all_verso],0,0,2,2,#000000
+ellipse=[all_verso],0.05,0.05,1.9,1.9,#EE2222
+
+font="arial",9,T,#000000
+TEXT=[all_recto],"Planification +1",0,0,2,2,"center", "wwcenter"
+TEXT=[all_verso],"Entrainement +1",0,0,2,2,"center", "wwcenter"
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=0,0,0,0
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

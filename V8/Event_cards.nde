@@ -1,0 +1,36 @@
+link=event_cards_data.txt
+cardsize=6,9
+[all]="1-{(Titre)*2}"
+[all_recto]="1-{(Titre)}"
+[all_verso]="{(Titre)+1}-{(Titre)*2}"
+[pos_title]=0.5,1,5,2
+[pos_desc]=0.5,3,5,6
+[pos_event]=0,0,6,9
+
+[middle]="center","center"
+[white]=#FFFFFF
+[black]=#000000
+[bg_recto]=#880000
+[bg_verso]=#000000
+
+[FONT_EVENT]="arial",20, TB, [white]
+[FONT_TITLE]="arial",14, TB, [white]
+[FONT_DESC]="arial",10,T, [white]
+
+rectangle=[all],0,0,6,9,[bg_verso]
+rectangle=[all_recto],0.1,0.1,5.8,8.8,[bg_recto]
+
+FONT=[FONT_EVENT]
+TEXT=[all_verso],"Événement",[pos_event],center,wwcenter
+
+FONT=[FONT_TITLE]
+TEXT=[all_recto],[Titre],[pos_title],center,wordwrap
+
+FONT=[FONT_DESC]
+TEXT=[all_recto],[Description],[pos_desc],center,wwcenter
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=0,0,0,0
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

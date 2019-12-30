@@ -1,0 +1,9 @@
+﻿ID,Nom,Reticence,Deplacement,Communication,Militaire,Ingenierie,Réputation,Skill,Skill_Title,Skill_Desc,Chara_icon,Relationship
+A,John Stark,2,3,1,3,2,4,ELITE,Agent d'élite,Peut tuer tous les soldats (au lieu d'un seul) d'un lieu pour une action.,,2.09375
+D,George Tasker,2,4,2,3,1,3,TRACK,Pisteur,Permet d'emprunter les chemins de montagne comme une route normale.,,2.0625
+E,Tom Llewellyn,3,3,3,2,1,5,PI,Enquêteur,Pioche une carte supplémentaire lors d'une action de recherche d'indice (quelque soit la compétence).,,2.25
+R,Charles Ambler,2,3,2,2,2,2,POLY,Polyvalent,"Commence avec un jeton Planification, et ne le défausse jamais. Au début de chaque tour des joueurs, il peut déplacer ce jeton sur un autre compétence.",,2.0625
+S,Franco Grazzini,2,3,2,2,2,6,HERO,Héros de la Résistance,"Pour chaque cube posé sur une carte Résistance, en rajouter un de la réserve.",,2.125
+AB,Jenny Adams,3,3,1,2,3,3,SEARCH,Chercheur,Permet de garder deux cartes au lieu d'une lors d'une action de fouille.,,2.4375
+AC,Sarah Maddocks,0,3,3,1,2,5,SPY,Espion,N'est pas impacté par la présence de soldats pour les actions d'enquête.,,1.71875
+AE,Amelia Randles,0,2,2,1,3,4,HOPE,Aura d'espoir,Empêche l'arrivée de soldat ennemi dans le lieu où le joueur est présent + les lieux voisins.,,1.5

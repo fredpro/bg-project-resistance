@@ -1,0 +1,17 @@
+Type,Status
+Car,OK
+Car,OK
+Car,OK
+Car,OK
+Car,OK
+Car,OK
+Car,OK
+Car,OK
+Boat,OK
+Boat,OK
+Boat,OK
+Boat,OK
+Boat,OK
+Boat,OK
+Boat,OK
+Boat,OK

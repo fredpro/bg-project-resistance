@@ -1,0 +1,12 @@
+﻿Special_Skill,Titre,Description
+ELITE,Agent d'élite,Peut tuer tous les soldats (au lieu d'un seul) d'un lieu pour une action.
+TRACK,Pisteur,Permet d'emprunter les chemins de montagne pour une action (au lieu de trois).
+PI,Enquêteur,Peut garder deux cartes au lieu d'une lors d'une interrogation.
+COMMANDO,Expert,Peut effectuer une action de tuerie à distance (dans un lieu voisin) pour deux actions.
+GIFTED,Surdoué,Peut activer deux Upgrade simultanément
+HERO,Héros,Commence avec un jeton Action héroïque supplémentaire.          Ne défausse pas la carte Action Héroïque après l'avoir utilisée.
+DISCREET,Discret,N'est pas impacté par la présence de soldats lors des actions de fouille.
+PASS,Passe-partout,Ne dépnense pas d'action pour s'arrêter dans une ville occupée.
+SEARCH,Chercheur,Permet de garder deux cartes au lieu d'une lors d'une action de fouille.
+SPY,Espion,N'est pas impacté par la présence de soldats pour les actions d'enquête.
+HOPE,Aura d'espoir,Empêche l'arrivée de soldat ennemi dans le lieu où le joueur est présent + les lieux voisins.

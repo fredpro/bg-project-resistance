@@ -1,0 +1,101 @@
+﻿Titre,Description,Lieux
+Cité Montagnarde,La base se trouve dans un lieu duquel part un chemin de montagne,"G14, H8, H10, H13, I14, J11, K17, L10, M7, M16, N14, Q9, R10, S15, S17"
+Cité Montagnarde,La base se trouve dans un lieu duquel part un chemin de montagne,"G14, H8, H10, H13, I14, J11, K17, L10, M7, M16, N14, Q9, R10, S15, S17"
+Cité Montagnarde,La base se trouve dans un lieu duquel part un chemin de montagne,"G14, H8, H10, H13, I14, J11, K17, L10, M7, M16, N14, Q9, R10, S15, S17"
+Cité maritime,La base se trouve dans un lieu dans lequel se trouve un port,"C5, C9, D12, D17, F3, F18, G11, G19, H3, I21, J6, K21, L6, M19, O20, Q4, Q19, T5, T19, U8, U11, V12, V14, V17"
+Cité maritime,La base se trouve dans un lieu dans lequel se trouve un port,"C5, C9, D12, D17, F3, F18, G11, G19, H3, I21, J6, K21, L6, M19, O20, Q4, Q19, T5, T19, U8, U11, V12, V14, V17"
+Cité maritime,La base se trouve dans un lieu dans lequel se trouve un port,"C5, C9, D12, D17, F3, F18, G11, G19, H3, I21, J6, K21, L6, M19, O20, Q4, Q19, T5, T19, U8, U11, V12, V14, V17"
+Cité maritime,La base se trouve dans un lieu dans lequel se trouve un port,"C5, C9, D12, D17, F3, F18, G11, G19, H3, I21, J6, K21, L6, M19, O20, Q4, Q19, T5, T19, U8, U11, V12, V14, V17"
+Cité de campagne,"La base se trouve dans un lieu qui ne possède ni port, ni route de montagne", "E8, G6, G16, I6, I16, I18, J15, K19, L15, M11, O6, O11, O13, O18, Q14, Q17, R8, R12, T9, U16, U18"
+Cité de campagne,"La base se trouve dans un lieu qui ne possède ni port, ni route de montagne", "E8, G6, G16, I6, I16, I18, J15, K19, L15, M11, O6, O11, O13, O18, Q14, Q17, R8, R12, T9, U16, U18"
+Cité de campagne,"La base se trouve dans un lieu qui ne possède ni port, ni route de montagne", "E8, G6, G16, I6, I16, I18, J15, K19, L15, M11, O6, O11, O13, O18, Q14, Q17, R8, R12, T9, U16, U18"
+Cité de campagne,"La base se trouve dans un lieu qui ne possède ni port, ni route de montagne", "E8, G6, G16, I6, I16, I18, J15, K19, L15, M11, O6, O11, O13, O18, Q14, Q17, R8, R12, T9, U16, U18"
+Village,La base se trouve dans un village, "C9, D17, E8, F3, F18, G6, G11, G14, G19, H3, H8, H13, I6, I14, I16, I18, I21, J11, J15, K17, K21, L6, L10, L15, M7, M11, M16, M19, N14, O13, O20, Q4, Q9, Q14, Q19, R8, R10, R12, S15, S17, T5, T19, U8, U11, U16, U18, V14, V17"
+Village,La base se trouve dans un village, "C9, D17, E8, F3, F18, G6, G11, G14, G19, H3, H8, H13, I6, I14, I16, I18, I21, J11, J15, K17, K21, L6, L10, L15, M7, M11, M16, M19, N14, O13, O20, Q4, Q9, Q14, Q19, R8, R10, R12, S15, S17, T5, T19, U8, U11, U16, U18, V14, V17"
+Village,La base se trouve dans un village, "C9, D17, E8, F3, F18, G6, G11, G14, G19, H3, H8, H13, I6, I14, I16, I18, I21, J11, J15, K17, K21, L6, L10, L15, M7, M11, M16, M19, N14, O13, O20, Q4, Q9, Q14, Q19, R8, R10, R12, S15, S17, T5, T19, U8, U11, U16, U18, V14, V17"
+Village,La base se trouve dans un village, "C9, D17, E8, F3, F18, G6, G11, G14, G19, H3, H8, H13, I6, I14, I16, I18, I21, J11, J15, K17, K21, L6, L10, L15, M7, M11, M16, M19, N14, O13, O20, Q4, Q9, Q14, Q19, R8, R10, R12, S15, S17, T5, T19, U8, U11, U16, U18, V14, V17"
+Village,La base se trouve dans un village, "C9, D17, E8, F3, F18, G6, G11, G14, G19, H3, H8, H13, I6, I14, I16, I18, I21, J11, J15, K17, K21, L6, L10, L15, M7, M11, M16, M19, N14, O13, O20, Q4, Q9, Q14, Q19, R8, R10, R12, S15, S17, T5, T19, U8, U11, U16, U18, V14, V17"
+Village,La base se trouve dans un village, "C9, D17, E8, F3, F18, G6, G11, G14, G19, H3, H8, H13, I6, I14, I16, I18, I21, J11, J15, K17, K21, L6, L10, L15, M7, M11, M16, M19, N14, O13, O20, Q4, Q9, Q14, Q19, R8, R10, R12, S15, S17, T5, T19, U8, U11, U16, U18, V14, V17"
+Ville,La base se trouve dans une ville, "C5, G16, H10, K19, O6, O11, O18, V12"
+Ville,La base se trouve dans une ville, "C5, G16, H10, K19, O6, O11, O18, V12"
+Capitale,La base se trouve dans une capitale, "D12, J5, Q17, T9"
+Voisin d'une ville,La base est reliée à une ville par une route, "C9, D17, E8, F3, F18, G11, G14, G19, H13, I16, I18, I21, K17, K21, L6, M11, M16, M19, N14, O13, O21, Q4, Q14, Q17, Q19, S15, V14"
+Voisin d'une ville,La base est reliée à une ville par une route, "C9, D17, E8, F3, F18, G11, G14, G19, H13, I16, I18, I21, K17, K21, L6, M11, M16, M19, N14, O13, O21, Q4, Q14, Q17, Q19, S15, V14"
+Voisin d'une ville,La base est reliée à une ville par une route, "C9, D17, E8, F3, F18, G11, G14, G19, H13, I16, I18, I21, K17, K21, L6, M11, M16, M19, N14, O13, O21, Q4, Q14, Q17, Q19, S15, V14"
+Voisin d'une ville,La base est reliée à une ville par une route, "C9, D17, E8, F3, F18, G11, G14, G19, H13, I16, I18, I21, K17, K21, L6, M11, M16, M19, N14, O13, O21, Q4, Q14, Q17, Q19, S15, V14"
+Voisin d'une capitale,La base est reliée à une capitale par une route, "D17, G11, H3, I6, O13, O18, Q14, R8, R10, S17, T5, U8, U11"
+Voisin d'une capitale,La base est reliée à une capitale par une route, "D17, G11, H3, I6, O13, O18, Q14, R8, R10, S17, T5, U8, U11"
+Non-voisin d'une ville ou capitale,La base n'est reliée à aucune ville ou capitale, "C5, D12, G6, G16, H8, H10, I14, K18, J5, J11, J15, L10, L15, M7, O6, O11, Q9, R12, T19, U16, U18, V12, V17"
+Non-voisin d'une ville ou capitale,La base n'est reliée à aucune ville ou capitale, "C5, D12, G6, G16, H8, H10, I14, K18, J5, J11, J15, L10, L15, M7, O6, O11, Q9, R12, T19, U16, U18, V12, V17"
+Non-voisin d'une ville ou capitale,La base n'est reliée à aucune ville ou capitale, "C5, D12, G6, G16, H8, H10, I14, K18, J5, J11, J15, L10, L15, M7, O6, O11, Q9, R12, T19, U16, U18, V12, V17"
+Région N-O,La base se trouve dans la région N-O, "C5, C9, E8, F3, G6, G11, H3, H8, H10, I6, J5, J11, L6, L10"
+Région N-O,La base se trouve dans la région N-O, "C5, C9, E8, F3, G6, G11, H3, H8, H10, I6, J5, J11, L6, L10"
+Région N-E,La base se trouve dans la région N-E, "M7, M11, O6, O11, Q4, Q9, R8, R10, T5, T9, U8, U11"
+Région N-E,La base se trouve dans la région N-E, "M7, M11, O6, O11, Q4, Q9, R8, R10, T5, T9, U8, U11"
+Région S-E,La base se trouve dans la région S-E, "M16, M19, N14, O13, O18, O20, Q14, Q17, Q19, R12, S15, S17, T19, U16, U18, V12, V14, V17"
+Région S-E,La base se trouve dans la région S-E, "M16, M19, N14, O13, O18, O20, Q14, Q17, Q19, R12, S15, S17, T19, U16, U18, V12, V14, V17"
+Région S-O,La base se trouve dans la région S-O, "D12, D17, F18, G14, G16, G19, H13, I14, I16, I18, I21, J15, K17, K19, K21, L15"
+Région S-O,La base se trouve dans la région S-O, "D12, D17, F18, G14, G16, G19, H13, I14, I16, I18, I21, J15, K17, K19, K21, L15"
+Voisin d'une cité maritime,La base est reliée par la route à un lieu possédant un port, "C5, C9, D12, D17, E8, F3, F18, G6, G11, G16, G18, H3, H10, H13, I6, I18, I21, J5, K19, K21, M7, M16, O6, O18, Q4, R8, R12, S15, S17, T5, T9, U8, U11, U16, U18, V12, V14"
+Voisin d'une cité maritime,La base est reliée par la route à un lieu possédant un port, "C5, C9, D12, D17, E8, F3, F18, G6, G11, G16, G18, H3, H10, H13, I6, I18, I21, J5, K19, K21, M7, M16, O6, O18, Q4, R8, R12, S15, S17, T5, T9, U8, U11, U16, U18, V12, V14"
+Voisin d'une cité maritime,La base est reliée par la route à un lieu possédant un port, "C5, C9, D12, D17, E8, F3, F18, G6, G11, G16, G18, H3, H10, H13, I6, I18, I21, J5, K19, K21, M7, M16, O6, O18, Q4, R8, R12, S15, S17, T5, T9, U8, U11, U16, U18, V12, V14"
+Non-voisin d'une cité maritime,La base est n'est reliée par la route à aucun lieu possédant un port, "G14, H8, I14, I16, J11, J15,  K17, L6, L10, L15, M11, M19, N14, O11, O13, O20, Q9, Q14, Q17, Q19, R10, T19, V17"
+Non-voisin d'une cité maritime,La base est n'est reliée par la route à aucun lieu possédant un port, "G14, H8, I14, I16, J11, J15,  K17, L6, L10, L15, M11, M19, N14, O11, O13, O20, Q9, Q14, Q17, Q19, R10, T19, V17"
+Voisin d'une cité montagnarde,La base est reliée par la route à un lieu duquel part un chemin de montagne, "E8, G6, G11, G14, G16, H10, H13, I6, I14, J11, K19, L6, L10, L15, M11, M19, O11, O13, O18, Q17, R8, R12, T9, U16, V12"
+Voisin d'une cité montagnarde,La base est reliée par la route à un lieu duquel part un chemin de montagne, "E8, G6, G11, G14, G16, H10, H13, I6, I14, J11, K19, L6, L10, L15, M11, M19, O11, O13, O18, Q17, R8, R12, T9, U16, V12"
+Non-voisin d'une cité montagnarde,La base est n'est reliée par la route à aucun lieu duquel part un chemin de montagne, "C5, C9, D12, D17, F3, F18, G19, H3, H8, I16, I18, I21, J5, J15, K17, K21, M7, M16, N14, O6, O20, Q4, Q9, Q14, Q19, R10, S15, S17, T5, U8, U11, U18, V14, V17"
+Non-voisin d'une cité montagnarde,La base est n'est reliée par la route à aucun lieu duquel part un chemin de montagne, "C5, C9, D12, D17, F3, F18, G19, H3, H8, I16, I18, I21, J5, J15, K17, K21, M7, M16, N14, O6, O20, Q4, Q9, Q14, Q19, R10, S15, S17, T5, U8, U11, U18, V14, V17"
+Non-voisin d'une cité montagnarde,La base est n'est reliée par la route à aucun lieu duquel part un chemin de montagne, "C5, C9, D12, D17, F3, F18, G19, H3, H8, I16, I18, I21, J5, J15, K17, K21, M7, M16, N14, O6, O20, Q4, Q9, Q14, Q19, R10, S15, S17, T5, U8, U11, U18, V14, V17"
+Une seule route,Une seule route est reliée à la base, "J15, L10, L15, M7, O20, Q19"
+Au plus deux routes,Au plus deux routes sont reliées à la base, "C5, C9, D12, D17, F3, F18, G14, G19, H3, H13, I14, I21, J5, J15, K21, L10, L15, M7, M11, M16, N14, O6, O20, Q4, Q9, Q14, Q19, R10, S17, T19, U8, U18, V12, V14, V17"
+Au plus deux routes,Au plus deux routes sont reliées à la base, "C5, C9, D12, D17, F3, F18, G14, G19, H3, H13, I14, I21, J5, J15, K21, L10, L15, M7, M11, M16, N14, O6, O20, Q4, Q9, Q14, Q19, R10, S17, T19, U8, U18, V12, V14, V17"
+Au plus deux routes,Au plus deux routes sont reliées à la base, "C5, C9, D12, D17, F3, F18, G14, G19, H3, H13, I14, I21, J5, J15, K21, L10, L15, M7, M11, M16, N14, O6, O20, Q4, Q9, Q14, Q19, R10, S17, T19, U8, U18, V12, V14, V17"
+Au moins trois routes,Au moins trois routes sont reliées à la base, "E8, G6, G11, G16, H8, H10, I6, I16, I18, J11, K17, K19, L6, M19, O11, O13, O18, Q17, R8, R12, S15, T5, T9, U11, U16"
+Au moins trois routes,Au moins trois routes sont reliées à la base, "E8, G6, G11, G16, H8, H10, I6, I16, I18, J11, K17, K19, L6, M19, O11, O13, O18, Q17, R8, R12, S15, T5, T9, U11, U16"
+Au moins quatre routes,Au moins quatre routes sont reliées à la base, "G11, G16, I6, K19, M19, O13, O18, Q17, T9"
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien

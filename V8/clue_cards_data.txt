@@ -1,0 +1,5 @@
+﻿Titre,Description,Lieux,Nb_lieux,Nb_cartes,Resistance,Remise en question
+Cité maritime,Au bord de la mer,NO13;NO8;NO7;NO5;NO4;NE12;NE10;NE7;NE6;NE4;SE13;SE7;SE4;SE3;SO6;SO4;SO3,17,2,,
+Cité campagnarde,"Ne possède aucune route de montagne, n'est pas au bord de la mer",NO14;NO12;NO11;NO9;NO6;NO3;NE15;NE13;NE11;NE8;NE5;NE3;NE2;SE15;SE14;SE10;SE9;SE8;SE6;SE5;SO15;SO14;SO13;SO9;SO7;SO5;SO2,27,3,,
+Ville ou Capitale,Est une ville ou une capitale,NO15;NO14;NO13;NE15;NE14;NE13;SE15;SE14;SE13;SO15;SO14;SO13,12,1,,
+Voisin d'une cité maritime,Est reliée à une cité maritime par une route,NO15;NO14;NO13;NE12;NO9;NO6;NE15;NE14;NE13;NE11;NE9;NE8;NE7;NE6;NE5;NE2;NE1;SE15;SE14;SE12;SE11;SE10;SE8;SE5;SO14;SO7;SO5;SO4;SO3;SO2,30,3,,

@@ -1,0 +1,11 @@
+﻿ID,Nom,Communication,Militaire,Ingenierie,Skill,Skill_Title,Skill_Desc,Hero_Hist
+A,John Stark,0,4,2,ELITE,Agent d'élite,Peut tuer tous les soldats (au lieu d'un seul) d'un lieu pour une action.,
+D,George Tasker,0,3,3,TRACK,Pisteur,Permet d'emprunter les chemins de montagne pour une action (au lieu de trois).,
+E,Tom Llewellyn,3,2,1,PI,SPY,Pioche une carte supplémentaire lors d'une action de recherche d'indice.,
+L,Howard Courtenay,1,1,4,COMMANDO,Commando,Peut effectuer une action de tuerie à distance (dans un lieu voisin) pour deux actions.,
+R,Charles Ambler,2,1,2,POLY,Polyvalent,"Commence avec un jeton Planification, et ne le défausse jamais. Au début de chaque tour des joueurs, il peut déplacer ce jeton sur un autre compétence.",
+S,Franco Grazzini,2,2,2,HERO,Héros,"Commence avec un jeton "Action héroïque". Ne défausse pas la carte Action héroïque utilisée.",
+X,Virginia Caygill,3,3,0,DISCREET,Discret,N'est pas impacté par la présence de soldats lors des actions de fouille.,
+AB,Jenny Adams,2,1,3,SEARCH,Chercheur,Permet de garder deux cartes au lieu d'une lors d'une action de fouille.,
+AC,Sarah Maddocks,4,2,0,SPY,Espion,N'est pas impacté par la présence de soldats pour les actions d'enquête.,
+AE,Amelia Randles,4,1,1,HOPE,Aura d'espoir,Empêche l'arrivée de soldat ennemi dans le lieu où le joueur est présent + les lieux voisins.,

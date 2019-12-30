@@ -1,0 +1,81 @@
+﻿ID,Titre,Description
+UNKNOWN,Ni vu ni connu,Réalisez une action normale sans compter celle-ci dans le total d'actions utilisées.
+UNKNOWN,Ni vu ni connu,Réalisez une action normale sans compter celle-ci dans le total d'actions utilisées.
+UNKNOWN,Ni vu ni connu,Réalisez une action normale sans compter celle-ci dans le total d'actions utilisées.
+UNKNOWN,Ni vu ni connu,Réalisez une action normale sans compter celle-ci dans le total d'actions utilisées.
+BOSS,Comme un chef,Placez le jeton "Action héroïque" sur la dernière case d'une compétence. A la prochaine action utilisant cette compétence, réussissez automatiquement l'action et défaussez le jeton "Action héroïque".
+BOSS,Comme un chef,Placez le jeton "Action héroïque" sur la dernière case d'une compétence. A la prochaine action utilisant cette compétence, réussissez automatiquement l'action et défaussez le jeton "Action héroïque".
+BOSS,Comme un chef,Placez le jeton "Action héroïque" sur la dernière case d'une compétence. A la prochaine action utilisant cette compétence, réussissez automatiquement l'action et défaussez le jeton "Action héroïque".
+BOSS,Comme un chef,Placez le jeton "Action héroïque" sur la dernière case d'une compétence. A la prochaine action utilisant cette compétence, réussissez automatiquement l'action et défaussez le jeton "Action héroïque".
+TRANS,Transport aérien,Déplacez un jeton personnage n'importe où sur la carte.
+TRANS,Transport aérien,Déplacez un jeton personnage n'importe où sur la carte.
+COMMANDO,Mission commando,Retirez jusqu'à 3 soldats (au total) dans un lieu et ses voisins.
+REVOLUTION,Révolte citoyenne,Retirez un lieu ennemi vide de la pioche des lieux ennemis.
+SEARCH,Fouille ciblée,Récupérez une carte objet de votre choix dans la défausse des cartes objets.
+SEARCH,Fouille ciblée,Récupérez une carte objet de votre choix dans la défausse des cartes objets.
+SEARCH,Fouille ciblée,Récupérez une carte objet de votre choix dans la défausse des cartes objets.
+INQUIERY,Enquête ciblée,Récupérez une carte indice de votre choix dans la défausse des cartes indices.
+INQUIERY,Enquête ciblée,Récupérez une carte indice de votre choix dans la défausse des cartes indices.
+INQUIERY,Enquête ciblée,Récupérez une carte indice de votre choix dans la défausse des cartes indices.
+SLOWDOWN,Ralentir l'ennemi,Ne pas faire la prochaine phase d'avancée de l'armée (équivalent d'une action armée).
+SLOWDOWN,Ralentir l'ennemi,Ne pas faire la prochaine phase d'avancée de l'armée (équivalent d'une action armée).
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien
+Rien,Rien

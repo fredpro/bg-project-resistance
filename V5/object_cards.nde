@@ -1,0 +1,26 @@
+cardsize=4,6
+link=object_cards_data.txt
+[all]="1-{(Titre)}"
+[pos_title]=0.25,0.25,3.5,2
+[pos_description]=0.25,2.5,3.5,3
+
+[middle]="center","center"
+[white]=#FFFFFF
+[black]=#000000
+[dark_blue]=#333366
+[bg]=#CC9966
+
+[FONT_TITRE]="arial",11, TB, [black]
+[FONT_DESCRIPTION]="arial",8, TI, [black]
+
+rectangle=[all],0,0,4,6,[black]
+rectangle=[all],0.1,0.1,3.8,5.8,[bg]
+
+FONT=[FONT_TITRE]
+TEXT=[all],[Titre],[pos_title],center,wordwrap
+
+FONT=[FONT_DESCRIPTION]
+TEXT=[all],[Description],[pos_description],center,wordwrap
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=0,0,0,0

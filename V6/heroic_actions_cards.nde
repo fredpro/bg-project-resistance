@@ -1,0 +1,31 @@
+link=heroic_actions_cards_data.txt
+cardsize=6,9
+[all]="1-{(ID)*2}"
+[all_recto]="1-{(ID)}"
+[all_verso]="{(ID)+1}-{(ID)*2}"
+[pos_titre]=0.5,1,5,2
+[pos_desc]=0.5,3,5,5
+
+[middle]="center","center"
+[white]=#FFFFFF
+[black]=#000000
+[bg_color]=#FFBB00
+
+[FONT_TITRE]="arial",14, TB, [black]
+[FONT_DESC]="arial",10,T, [black]
+[FONT_VERSO]="arial",24, TB, [black]
+
+rectangle=[all_recto],0,0,6,9,[bg_color]
+RECTANGLE=[all_recto],0,0,6,9,[black],EMPTY,0.2
+
+FONT=[FONT_TITRE]
+TEXT="1-{(Titre)}",[Titre],[pos_titre],center,wordwrap
+
+FONT=[FONT_DESC]
+TEXT="1-{(Titre)}",[Description],[pos_desc],center,wwcenter
+
+FONT=[FONT_VERSO]
+TEXT=[all_verso],"Action héroïque",0,0,6,9,center,wwcenter
+
+DUPLEX="1-{(Titre)}","{(Titre)+1}-{(Titre)*2}"
+PRINT=DUPLEX

@@ -1,0 +1,17 @@
+cardsize=6,9
+[all]=1-36
+[pos_title]=0.5,4,5,2
+
+[middle]="center","center"
+[white]=#FFFFFF
+[black]=#000000
+[dark_blue]=#222288
+[gray]=#DDDDDD
+
+[FONT_EVENT]="arial",16, TB, [dark_blue]
+
+rectangle=[all],0,0,6,9,[black]
+rectangle=[all],0.1,0.1,5.8,8.8,[gray]
+
+FONT=[FONT_EVENT]
+TEXT=[all],"Déploiement",[pos_title],center,wordwrap

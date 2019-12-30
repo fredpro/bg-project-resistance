@@ -1,0 +1,67 @@
+PAGE=21,29.7,PORTRAIT,H
+link=heroic_actions_cards_data.txt
+cardsize=6,9
+[all]="1-{(Titre)*2}"
+[all_recto]="1-{(Titre)}"
+[all_verso]="{(Titre)+1}-{(Titre)*2}"
+[pos_icon_titre]=0.25,0.5,1,1.5
+[pos_titre]=1.5,0.5,4,1.5
+[pos_titre_no_icon]=0.5,0.5,5,1.5
+[pos_div_titre]=0.25,2.3,5.75,2.3
+[pos_icon_action_maj]=0.5,2.5,1,4
+[pos_action_maj]=1.75,2.5,4,4
+[pos_action_maj_no_icon]=0.5,2.5,5,4
+[pos_div_actions]=0.5,6.5,5.5,6.5
+[pos_icon_action_min]=0.75,6.75,0.5,2
+[pos_action_min]=1.75,6.75,4,2
+[resistance_icon]="superhero.png"
+[pos_icon]=5,0.8,0.8,0.8
+
+[middle]="center","center"
+[white]=#FFFFFF
+[black]=#000000
+[bg_color]=#FFFFFF
+;#FFBB00
+
+[FONT_TITRE]="arial",14, TB, [black]
+[FONT_ACTION_MAJ]="arial",11,T, [black]
+[FONT_ACTION_MIN]="arial",8,T, [black]
+[FONT_VERSO]="arial",24, TB, [black]
+
+rectangle=[all_recto],0,0,6,9,[bg_color]
+RECTANGLE=[all_recto],0,0,6,9,[black],EMPTY,0.2
+
+FONT=[FONT_TITRE]
+IF=[Icon]<>""
+VECTOR=[all_recto],".\Icons\heroic cards\[Icon]",[pos_icon_titre]
+TEXT=[all_recto],[Titre],[pos_titre],center,wwcenter
+ELSE
+TEXT=[all_recto],[Titre],[pos_titre_no_icon],center,wwcenter
+ENDIF
+
+LINE=[all_recto],[pos_div_titre],[black],0.1
+
+FONT=[FONT_ACTION_MAJ]
+IF=[Icon maj]<>""
+VECTOR=[all_recto],".\Icons\heroic cards\[Icon maj]",[pos_icon_action_maj]
+TEXT=[all_recto],[Action Majeure],[pos_action_maj],left,wwcenter
+ELSE
+TEXT=[all_recto],[Action Majeure],[pos_action_maj_no_icon],center,wwcenter
+ENDIF
+
+IF=[Icon min]<>""
+LINE=[all_recto],[pos_div_actions],[black],0.05
+FONT=[FONT_ACTION_MIN]
+VECTOR=[all_recto],".\Icons\heroic cards\[Icon min]",[pos_icon_action_min]
+TEXT=[all_recto],[Action Mineure],[pos_action_min],left,wwcenter
+ENDIF
+
+IF=[Resistance]=1
+    IMAGE=[all_recto],[resistance_icon],[pos_icon],0,"APN",100
+ENDIF
+
+FONT=[FONT_VERSO]
+TEXT=[all_verso],"Résistance",0,0,6,9,center,wwcenter
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

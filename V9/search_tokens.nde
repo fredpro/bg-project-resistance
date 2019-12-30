@@ -1,0 +1,17 @@
+cardsize=1,1
+
+[all]=1-24
+[middle]="center", "center"
+[pos_lbl_value]=0,0,1,1
+[pos_lbl_name]=0,0,1,1,[middle]
+[col_bg]=#AF6E4D
+[col_txt]=#000000
+
+polygon=[all],[pos_lbl_value],4,45,[col_bg]
+
+font="arial",7,TB,[col_txt]
+text=1-12,"1",[pos_lbl_name],center,center,45
+text=13-24,"2",[pos_lbl_name],center,center,45
+
+DUPLEX=1-12,13-24
+PRINT=DUPLEX

@@ -1,0 +1,18 @@
+cardsize=2,2
+
+[all]=1-80
+[all_recto]=1-40
+[all_verso]=41-80
+[middle]="center", "wwcenter"
+
+ellipse=[all],0,0,2,2,#AA2222
+ellipse=[all],0,0,2,2,#000000,EMPTY,0.05
+
+font="arial",9,T,#000000
+TEXT=[all],"1 Base Skill Point",0,0,2,2,"center", "wwcenter"
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=0,0,0,0
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

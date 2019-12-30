@@ -1,0 +1,116 @@
+link=character_sheets_data.txt
+cardsize=12,7
+[all]="1-{(ID)}"
+[middle]="center","center"
+[left]="left","center"
+[pos_bg]=0,0,12,7
+[pos_ID]=0.5,0.5,1,1
+[pos_name]=2,0.5,5,0.5
+[pos_base_ap]=2,1,5,0.5
+[pos_txt_team]=0.5,1.75,5,0.5
+[pos_txt_gas]=0.5,4.9,5,0.5
+[pos_v_line]=7,0.5,7,6.5
+[pos_skill_comm]=7.5,0.5,4,0.5
+[pos_skill_comb]=7.5,1,4,0.5
+[pos_skill_tech]=7.5,1.5,4,0.5
+[pos_spec_skill_title]=7.5,2.25,4,0.5
+[pos_spec_skill_desc]=7.5,2.75,4,5
+
+[white]=#FFFFFF
+[black]=#000000
+
+[FONT_ID]="arial",12, TB, [white]
+[FONT_NAME]="arial",12, TB, [black]
+[FONT_BASE_AP]="arial",10,T, [black]
+[FONT_TEAM]="arial",12, TB, [black]
+[FONT_GAS]="arial",12,TB, [black]
+[FONT_SKILL]="arial",12, TB, [black]
+[FONT_SPEC_SKILL_TITLE]="arial",12, TB, [black]
+[FONT_SPEC_SKILL_DESC]="arial",11, T, [black]
+
+RECTANGLE=[all],[pos_bg],[black],EMPTY,0.2
+ellipse=[all],[pos_ID],#0000FF
+
+FONT=[FONT_ID]
+TEXT=[all],[ID],[pos_ID],[middle]
+
+FONT=[FONT_NAME]
+TEXT=[all],[Nom],[pos_name],[left]
+
+FONT=[FONT_BASE_AP]
+TEXT=[all],"AP : {[Base_AP]}",[pos_base_ap],[left]
+
+FONT=[FONT_TEAM]
+TEXT=[all],"Equipe :",[pos_txt_team],[left]
+
+ellipse=[all],0.5,2.5,1.8,1.8,[black],EMPTY,0.05
+ellipse=[all],2.65,2.5,1.8,1.8,[black],EMPTY,0.05
+ellipse=[all],4.8,2.5,1.8,1.8,[black],EMPTY,0.05
+
+FONT=[FONT_BASE_AP]
+TEXT=[all],"AP+1",0.5,4.3,1.8,0.5,[middle]
+TEXT=[all],"AP+1",2.65,4.3,1.8,0.5,[middle]
+TEXT=[all],"AP+1",4.8,4.3,1.8,0.5,[middle]
+
+FONT=[FONT_GAS]
+TEXT=[all],"Essence :",[pos_txt_gas],[left]
+
+ellipse=[all],0.5,5.5,1,1,[black],EMPTY,0.05
+ellipse=[all],1.75,5.5,1,1,[black],EMPTY,0.05
+ellipse=[all],3,5.5,1,1,[black],EMPTY,0.05
+ellipse=[all],4.25,5.5,1,1,[black],EMPTY,0.05
+ellipse=[all],5.5,5.5,1,1,[black],EMPTY,0.05
+
+LINE=[all],[pos_v_line],[black],0.05
+
+FONT=[FONT_SKILL]
+TEXT=[all],"Communication : {[Communication]}",[pos_skill_comm],[left]
+TEXT=[all],"Militaire : {[Militaire]}",[pos_skill_comb],[left]
+TEXT=[all],"Ingenierie : {[Ingenierie]}",[pos_skill_tech],[left]
+
+IF=[Capacite speciale]="ELITE"
+FONT=[FONT_SPEC_SKILL_TITLE]
+TEXT=[all],"Agent d'élite :",[pos_spec_skill_title],[left]
+FONT=[FONT_SPEC_SKILL_DESC]
+TEXT=[all],"Peut relancer un dé lors des actions militaires (sauf le dé libre).",[pos_spec_skill_desc],left, wordwrap
+ELSEIF=[Capacite speciale]="SEARCH"
+FONT=[FONT_SPEC_SKILL_TITLE]
+TEXT=[all],"Chercheur :",[pos_spec_skill_title],[left]
+FONT=[FONT_SPEC_SKILL_DESC]
+TEXT=[all],"Permet de piocher une carte supplémentaire lors des actions de fouille.",[pos_spec_skill_desc],left, wordwrap
+ELSEIF=[Capacite speciale]="CHARISM"
+FONT=[FONT_SPEC_SKILL_TITLE]
+TEXT=[all],"Charismatique :",[pos_spec_skill_title],[left]
+FONT=[FONT_SPEC_SKILL_DESC]
+TEXT=[all],"Peut relancer un dé lors des actions de communication (sauf le dé libre).",[pos_spec_skill_desc],left, wordwrap
+ELSEIF=[Capacite speciale]="EXPERT"
+FONT=[FONT_SPEC_SKILL_TITLE]
+TEXT=[all],"Expert :",[pos_spec_skill_title],[left]
+FONT=[FONT_SPEC_SKILL_DESC]
+TEXT=[all],"Peut relancer un dé lors des actions d'ingénierie (sauf le dé libre).",[pos_spec_skill_desc],left, wordwrap
+ELSEIF=[Capacite speciale]="POLY"
+FONT=[FONT_SPEC_SKILL_TITLE]
+TEXT=[all],"Polyvalent :",[pos_spec_skill_title],[left]
+FONT=[FONT_SPEC_SKILL_DESC]
+TEXT=[all],"A droit à une action supplémentaire par tour (mais possède un point de caractéristique de moins).",[pos_spec_skill_desc],left, wordwrap
+ELSEIF=[Capacite speciale]="HOPE"
+FONT=[FONT_SPEC_SKILL_TITLE]
+TEXT=[all],"Aura d'espoir :",[pos_spec_skill_title],[left]
+FONT=[FONT_SPEC_SKILL_DESC]
+TEXT=[all],"Empêche de nouveaux soldats d'apparaître dans le lieu où se trouve le personnage, ainsi que les lieux adjacents.",[pos_spec_skill_desc],left, wordwrap
+ELSEIF=[Capacite speciale]="PASS"
+FONT=[FONT_SPEC_SKILL_TITLE]
+TEXT=[all],"Passe-partout :",[pos_spec_skill_title],[left]
+FONT=[FONT_SPEC_SKILL_DESC]
+TEXT=[all],"A besoin d'une réussite de moins lors du jet de communication pour rentrer dans une ville.",[pos_spec_skill_desc],left, wordwrap
+ELSEIF=[Capacite speciale]="TRACK"
+FONT=[FONT_SPEC_SKILL_TITLE]
+TEXT=[all],"Pisteur :",[pos_spec_skill_title],[left]
+FONT=[FONT_SPEC_SKILL_DESC]
+TEXT=[all],"Permet d'emprunter les chemins de montagne pour une action (au lieu de trois).",[pos_spec_skill_desc],left, wordwrap
+ELSEIF=[Capacite speciale]="SPY"
+FONT=[FONT_SPEC_SKILL_TITLE]
+TEXT=[all],"Espion :",[pos_spec_skill_title],[left]
+FONT=[FONT_SPEC_SKILL_DESC]
+TEXT=[all],"Peut visualiser les deux prochaines cartes ""Evénement"" ou les deux prochaine cartes ""Débarquement"".",[pos_spec_skill_desc],left, wordwrap
+ENDIF

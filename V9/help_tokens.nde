@@ -1,0 +1,19 @@
+﻿cardsize=1,1
+
+[all]=1-40
+[all_recto]=1-20
+[all_verso]=21-40
+[middle]="center", "center"
+[pos_lbl_value]=0,0,1,1
+[pos_lbl_name]=0,0,1,1,[middle]
+[col_bg]=#FFBB00
+[col_txt]=#000000
+
+rectangle=[all],[pos_lbl_value],[col_bg]
+
+font="arial",8,TB,[col_txt]
+text=[all_recto],"1",[pos_lbl_name]
+text=[all_verso],"2",[pos_lbl_name]
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

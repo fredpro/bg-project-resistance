@@ -1,0 +1,50 @@
+link=event_cards_data.txt
+cardsize=6,9
+[all]="1-{(Type_id)*2}"
+[pos_type]=0.5,1,5,2
+[pos_region]=0.5,2,5,2
+[pos_details]=0.5,2,5,6
+
+[middle]="center","center"
+[white]=#FFFFFF
+[black]=#000000
+[bg_LieuNO]=#00FF00
+[bg_LieuNE]=#88FF00
+[bg_LieuSO]=#00FF88
+[bg_LieuSE]=#88FF88
+[bg_Avan]=#AA3333
+[bg_Renf]=#3333AA
+[bg_Inva]=#CCCCFF
+[bg_Durc]=#FFCCFF
+
+[FONT_EVENT]="arial",16, TB, [white]
+[FONT_TYPE]="arial",14, TB, [black]
+[FONT_REGION]="arial",12,TIU, [black]
+[FONT_DETAILS]="arial",10,T, [black]
+
+rectangle=[all],0,0,6,9,[black]
+IF=[Type_id]=Lieu
+rectangle="1-{(Type_id)}",0.1,0.1,5.8,8.8,[bg_[Type_id][Region]]
+ELSE
+rectangle="1-{(Type_id)}",0.1,0.1,5.8,8.8,[bg_[Type_id]]
+ENDIF
+
+FONT=[FONT_EVENT]
+IF=[Type_id]=Lieu
+TEXT="{(Type_id)+1}-{(Type_id)*2}","Lieu",[pos_details],center,wordwrap
+ELSE
+TEXT="{(Type_id)+1}-{(Type_id)*2}","Événement",[pos_details],center,wordwrap
+ENDIF
+
+FONT=[FONT_TYPE]
+TEXT="1-{(Type_id)}",[Type_name],[pos_type],center,wordwrap
+
+IF=[Type_id]=Lieu
+FONT=[FONT_REGION]
+TEXT="1-{(Type_id)}",[Region],[pos_region],center,wwtop
+ENDIF
+FONT=[FONT_DETAILS]
+TEXT="1-{(Type_id)}",[Details],[pos_details],center,wwcenter
+
+DUPLEX="1-{(Type_id)}","{(Type_id)+1}-{(Type_id)*2}"
+PRINT=DUPLEX

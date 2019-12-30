@@ -1,0 +1,197 @@
+Indice_1,Nb_lieux,Indice_2,Nb_Lieux_2,Lieux_communs,Nb_lieux_communs
+Cité montagnarde,14,X,14,X,14
+Cité montagnarde,14,Cité maritime,17,,0
+Cité montagnarde,14,Cité campagnarde,28,,0
+Cité montagnarde,14,Village,48,NO10;NO2;NO1;NE9;NE1;SE12;SE11;SE2;SE1;SO11;SO8;SO1,12
+Cité montagnarde,14,Ville,8,NE14;SO13,2
+Cité montagnarde,14,Capitale,4,,0
+Cité montagnarde,14,Régions N,30,NO10;NO2;NO1;NE14;NE9;NE1,6
+Cité montagnarde,14,Régions S,30,SE12;SE11;SE2;SE1;SO13;SO11;SO8;SO1,8
+Cité montagnarde,14,Régions E,30,NE14;NE9;NE1;SE12;SE11;SE2;SE1,7
+Cité montagnarde,14,Régions O,30,NO10;NO2;NO1;SO13;SO11;SO8;SO1,7
+Cité montagnarde,14,1 route,6,NO2;NO1;NE1;SE1;SO1,5
+Cité montagnarde,14,2 routes,27,NE14;SE11;SE2;SO8,4
+Cité montagnarde,14,3 routes,17,NO10;NE9;SO13,3
+Cité montagnarde,14,4 routes ou plus,10,SE12;SO11,2
+Cité maritime,17,Cité montagnarde,14,,0
+Cité maritime,17,X,17,X,17
+Cité maritime,17,Cité campagnarde,28,,0
+Cité maritime,17,Village,48,NO8;NO7;NO5;NO4;NE12;NE10;NE7;NE6;NE4;SE7;SE4;SE3;SO6;SO4;SO3,15
+Cité maritime,17,Ville,8,NO13;SE13,2
+Cité maritime,17,Capitale,4,,0
+Cité maritime,17,Régions N,30,NO13;NO8;NO7;NO5;NO4;NE12;NE10;NE7;NE6;NE4,10
+Cité maritime,17,Régions S,30,SE13;SE7;SE4;SE3;SO6;SO4;SO3,7
+Cité maritime,17,Régions E,30,NE12;NE10;NE7;NE6;NE4;SE13;SE7;SE4;SE3,9
+Cité maritime,17,Régions O,30,NO13;NO8;NO7;NO5;NO4;SO6;SO4;SO3,8
+Cité maritime,17,1 route,6,NO4,1
+Cité maritime,17,2 routes,27,NO13;NO8;NO7;NO5;NE7;NE6;NE4;SE13;SE7;SE4;SE3;SO6;SO4;SO3,14
+Cité maritime,17,3 routes,17,,0
+Cité maritime,17,4 routes ou plus,10,NE12;NE10,2
+Cité campagnarde,28,Cité montagnarde,14,,0
+Cité campagnarde,28,Cité maritime,17,,0
+Cité campagnarde,28,X,28,X,28
+Cité campagnarde,28,Village,48,NO12;NO11;NO9;NO6;NO3;NE11;NE8;NE5;NE3;NE2;SE10;SE9;SE8;SE6;SE5;SO12;SO9;SO7;SO5;SO2,20
+Cité campagnarde,28,Ville,8,NO14;NE13;SE14;SO14,4
+Cité campagnarde,28,Capitale,4,NO15;NE15;SE15;SO15,4
+Cité campagnarde,28,Régions N,30,NO15;NO14;NO12;NO11;NO9;NO6;NO3;NE15;NE13;NE11;NE8;NE5;NE3;NE2,14
+Cité campagnarde,28,Régions S,30,SE15;SE14;SE10;SE9;SE8;SE6;SE5;SO15;SO14;SO12;SO9;SO7;SO5;SO2,14
+Cité campagnarde,28,Régions E,30,NE15;NE13;NE11;NE8;NE5;NE3;NE2;SE15;SE14;SE10;SE9;SE8;SE6;SE5,14
+Cité campagnarde,28,Régions O,30,NO15;NO14;NO12;NO11;NO9;NO6;NO3;SO15;SO14;SO12;SO9;SO7;SO5;SO2,14
+Cité campagnarde,28,1 route,6,,0
+Cité campagnarde,28,2 routes,27,NO11;NO6;NE11;NE5;NE3;SE8;SE5;SO7;SO2,9
+Cité campagnarde,28,3 routes,17,NO12;NO9;NO3;NE13;NE8;NE2;SE14;SE10;SE9;SE6;SO12;SO9;SO5,13
+Cité campagnarde,28,4 routes ou plus,10,NO15;NO14;NE15;SE15;SO15;SO14,6
+Village,48,Cité montagnarde,14,NO10;NO2;NO1;NE9;NE1;SE12;SE11;SE2;SE1;SO11;SO8;SO1,12
+Village,48,Cité maritime,17,NO8;NO7;NO5;NO4;NE12;NE10;NE7;NE6;NE4;SE7;SE4;SE3;SO6;SO4;SO3,15
+Village,48,Cité campagnarde,28,NO12;NO11;NO9;NO6;NO3;NE11;NE8;NE5;NE3;NE2;SE10;SE9;SE8;SE6;SE5;SO12;SO9;SO7;SO5;SO2,20
+Village,48,X,48,X,48
+Village,48,Ville,8,,0
+Village,48,Capitale,4,,0
+Village,48,Régions N,30,NO12;NO11;NO10;NO9;NO8;NO7;NO6;NO5;NO4;NO3;NO2;NO1;NE12;NE11;NE10;NE9;NE8;NE7;NE6;NE5;NE4;NE3;NE2;NE1,24
+Village,48,Régions S,30,SE12;SE11;SE10;SE9;SE8;SE7;SE6;SE5;SE4;SE3;SE2;SE1;SO12;SO11;SO10;SO9;SO8;SO7;SO6;SO5;SO4;SO3;SO2;SO1,24
+Village,48,Régions E,30,NE12;NE11;NE10;NE9;NE8;NE7;NE6;NE5;NE4;NE3;NE2;NE1;SE12;SE11;SE10;SE9;SE8;SE7;SE6;SE5;SE4;SE3;SE2;SE1,24
+Village,48,Régions O,30,NO12;NO11;NO10;NO9;NO8;NO7;NO6;NO5;NO4;NO3;NO2;NO1;SO12;SO11;SO10;SO9;SO8;SO7;SO6;SO5;SO4;SO3;SO2;SO1,24
+Village,48,1 route,6,NO4;NO2;NO1;NE1;SE1;SO1,6
+Village,48,2 routes,27,NO11;NO8;NO7;NO6;NO5;NE11;NE7;NE6;NE5;NE4;NE3;SE11;SE8;SE7;SE5;SE4;SE3;SE2;SO8;SO7;SO6;SO4;SO3;SO2,24
+Village,48,3 routes,17,NO12;NO10;NO9;NO3;NE9;NE8;NE2;SE10;SE9;SE6;SO12;SO10;SO9;SO5,14
+Village,48,4 routes ou plus,10,NE12;NE10;SE12;SO11,4
+Ville,8,Cité montagnarde,14,NE14;SO13,2
+Ville,8,Cité maritime,17,NO13;SE13,2
+Ville,8,Cité campagnarde,28,NO14;NE13;SE14;SO14,4
+Ville,8,Village,48,,0
+Ville,8,X,8,X,8
+Ville,8,Capitale,4,,0
+Ville,8,Régions N,30,NO14;NO13;NE14;NE13,4
+Ville,8,Régions S,30,SE14;SE13;SO14;SO13,4
+Ville,8,Régions E,30,NE14;NE13;SE14;SE13,4
+Ville,8,Régions O,30,NO14;NO13;SO14;SO13,4
+Ville,8,1 route,6,,0
+Ville,8,2 routes,27,NO13;NE14;SE13,3
+Ville,8,3 routes,17,NE13;SE14;SO13,3
+Ville,8,4 routes ou plus,10,NO14;SO14,2
+Capitale,4,Cité montagnarde,14,,0
+Capitale,4,Cité maritime,17,,0
+Capitale,4,Cité campagnarde,28,NO15;NE15;SE15;SO15,4
+Capitale,4,Village,48,,0
+Capitale,4,Ville,8,,0
+Capitale,4,X,4,X,4
+Capitale,4,Régions N,30,NO15;NE15,2
+Capitale,4,Régions S,30,SE15;SO15,2
+Capitale,4,Régions E,30,NE15;SE15,2
+Capitale,4,Régions O,30,NO15;SO15,2
+Capitale,4,1 route,6,,0
+Capitale,4,2 routes,27,,0
+Capitale,4,3 routes,17,,0
+Capitale,4,4 routes ou plus,10,NO15;NE15;SE15;SO15,4
+Régions N,30,Cité montagnarde,14,NO10;NO2;NO1;NE14;NE9;NE1,6
+Régions N,30,Cité maritime,17,NO13;NO8;NO7;NO5;NO4;NE12;NE10;NE7;NE6;NE4,10
+Régions N,30,Cité campagnarde,28,NO15;NO14;NO12;NO11;NO9;NO6;NO3;NE15;NE13;NE11;NE8;NE5;NE3;NE2,14
+Régions N,30,Village,48,NO12;NO11;NO10;NO9;NO8;NO7;NO6;NO5;NO4;NO3;NO2;NO1;NE12;NE11;NE10;NE9;NE8;NE7;NE6;NE5;NE4;NE3;NE2;NE1,24
+Régions N,30,Ville,8,NO14;NO13;NE14;NE13,4
+Régions N,30,Capitale,4,NO15;NE15,2
+Régions N,30,X,30,X,30
+Régions N,30,Régions S,30,,0
+Régions N,30,Régions E,30,NE15;NE14;NE13;NE12;NE11;NE10;NE9;NE8;NE7;NE6;NE5;NE4;NE3;NE2;NE1,15
+Régions N,30,Régions O,30,NO15;NO14;NO13;NO12;NO11;NO10;NO9;NO8;NO7;NO6;NO5;NO4;NO3;NO2;NO1,15
+Régions N,30,1 route,6,NO4;NO2;NO1;NE1,4
+Régions N,30,2 routes,27,NO13;NO11;NO8;NO7;NO6;NO5;NE14;NE11;NE7;NE6;NE5;NE4;NE3,13
+Régions N,30,3 routes,17,NO12;NO10;NO9;NO3;NE13;NE9;NE8;NE2,8
+Régions N,30,4 routes ou plus,10,NO15;NO14;NE15;NE12;NE10,5
+Régions S,30,Cité montagnarde,14,SE12;SE11;SE2;SE1;SO13;SO11;SO8;SO1,8
+Régions S,30,Cité maritime,17,SE13;SE7;SE4;SE3;SO6;SO4;SO3,7
+Régions S,30,Cité campagnarde,28,SE15;SE14;SE10;SE9;SE8;SE6;SE5;SO15;SO14;SO12;SO9;SO7;SO5;SO2,14
+Régions S,30,Village,48,SE12;SE11;SE10;SE9;SE8;SE7;SE6;SE5;SE4;SE3;SE2;SE1;SO12;SO11;SO10;SO9;SO8;SO7;SO6;SO5;SO4;SO3;SO2;SO1,24
+Régions S,30,Ville,8,SE14;SE13;SO14;SO13,4
+Régions S,30,Capitale,4,SE15;SO15,2
+Régions S,30,Régions N,30,,0
+Régions S,30,X,30,X,30
+Régions S,30,Régions E,30,SE15;SE14;SE13;SE12;SE11;SE10;SE9;SE8;SE7;SE6;SE5;SE4;SE3;SE2;SE1,15
+Régions S,30,Régions O,30,SO15;SO14;SO13;SO12;SO11;SO10;SO9;SO8;SO7;SO6;SO5;SO4;SO3;SO2;SO1,15
+Régions S,30,1 route,6,SE1;SO1,2
+Régions S,30,2 routes,27,SE13;SE11;SE8;SE7;SE5;SE4;SE3;SE2;SO8;SO7;SO6;SO4;SO3;SO2,14
+Régions S,30,3 routes,17,SE14;SE10;SE9;SE6;SO13;SO12;SO10;SO9;SO5,9
+Régions S,30,4 routes ou plus,10,SE15;SE12;SO15;SO14;SO11,5
+Régions E,30,Cité montagnarde,14,NE14;NE9;NE1;SE12;SE11;SE2;SE1,7
+Régions E,30,Cité maritime,17,NE12;NE10;NE7;NE6;NE4;SE13;SE7;SE4;SE3,9
+Régions E,30,Cité campagnarde,28,NE15;NE13;NE11;NE8;NE5;NE3;NE2;SE15;SE14;SE10;SE9;SE8;SE6;SE5,14
+Régions E,30,Village,48,NE12;NE11;NE10;NE9;NE8;NE7;NE6;NE5;NE4;NE3;NE2;NE1;SE12;SE11;SE10;SE9;SE8;SE7;SE6;SE5;SE4;SE3;SE2;SE1,24
+Régions E,30,Ville,8,NE14;NE13;SE14;SE13,4
+Régions E,30,Capitale,4,NE15;SE15,2
+Régions E,30,Régions N,30,NE15;NE14;NE13;NE12;NE11;NE10;NE9;NE8;NE7;NE6;NE5;NE4;NE3;NE2;NE1,15
+Régions E,30,Régions S,30,SE15;SE14;SE13;SE12;SE11;SE10;SE9;SE8;SE7;SE6;SE5;SE4;SE3;SE2;SE1,15
+Régions E,30,X,30,X,30
+Régions E,30,Régions O,30,,0
+Régions E,30,1 route,6,NE1;SE1,2
+Régions E,30,2 routes,27,NE14;NE11;NE7;NE6;NE5;NE4;NE3;SE13;SE11;SE8;SE7;SE5;SE4;SE3;SE2,15
+Régions E,30,3 routes,17,NE13;NE9;NE8;NE2;SE14;SE10;SE9;SE6,8
+Régions E,30,4 routes ou plus,10,NE15;NE12;NE10;SE15;SE12,5
+Régions O,30,Cité montagnarde,14,NO10;NO2;NO1;SO13;SO11;SO8;SO1,7
+Régions O,30,Cité maritime,17,NO13;NO8;NO7;NO5;NO4;SO6;SO4;SO3,8
+Régions O,30,Cité campagnarde,28,NO15;NO14;NO12;NO11;NO9;NO6;NO3;SO15;SO14;SO12;SO9;SO7;SO5;SO2,14
+Régions O,30,Village,48,NO12;NO11;NO10;NO9;NO8;NO7;NO6;NO5;NO4;NO3;NO2;NO1;SO12;SO11;SO10;SO9;SO8;SO7;SO6;SO5;SO4;SO3;SO2;SO1,24
+Régions O,30,Ville,8,NO14;NO13;SO14;SO13,4
+Régions O,30,Capitale,4,NO15;SO15,2
+Régions O,30,Régions N,30,NO15;NO14;NO13;NO12;NO11;NO10;NO9;NO8;NO7;NO6;NO5;NO4;NO3;NO2;NO1,15
+Régions O,30,Régions S,30,SO15;SO14;SO13;SO12;SO11;SO10;SO9;SO8;SO7;SO6;SO5;SO4;SO3;SO2;SO1,15
+Régions O,30,Régions E,30,,0
+Régions O,30,X,30,X,30
+Régions O,30,1 route,6,NO4;NO2;NO1;SO1,4
+Régions O,30,2 routes,27,NO13;NO11;NO8;NO7;NO6;NO5;SO8;SO7;SO6;SO4;SO3;SO2,12
+Régions O,30,3 routes,17,NO12;NO10;NO9;NO3;SO13;SO12;SO10;SO9;SO5,9
+Régions O,30,4 routes ou plus,10,NO15;NO14;SO15;SO14;SO11,5
+1 route,6,Cité montagnarde,14,NO2;NO1;NE1;SE1;SO1,5
+1 route,6,Cité maritime,17,NO4,1
+1 route,6,Cité campagnarde,28,,0
+1 route,6,Village,48,NO4;NO2;NO1;NE1;SE1;SO1,6
+1 route,6,Ville,8,,0
+1 route,6,Capitale,4,,0
+1 route,6,Régions N,30,NO4;NO2;NO1;NE1,4
+1 route,6,Régions S,30,SE1;SO1,2
+1 route,6,Régions E,30,NE1;SE1,2
+1 route,6,Régions O,30,NO4;NO2;NO1;SO1,4
+1 route,6,X,6,X,6
+1 route,6,2 routes,27,,0
+1 route,6,3 routes,17,,0
+1 route,6,4 routes ou plus,10,,0
+2 routes,27,Cité montagnarde,14,NE14;SE11;SE2;SO8,4
+2 routes,27,Cité maritime,17,NO13;NO8;NO7;NO5;NE7;NE6;NE4;SE13;SE7;SE4;SE3;SO6;SO4;SO3,14
+2 routes,27,Cité campagnarde,28,NO11;NO6;NE11;NE5;NE3;SE8;SE5;SO7;SO2,9
+2 routes,27,Village,48,NO11;NO8;NO7;NO6;NO5;NE11;NE7;NE6;NE5;NE4;NE3;SE11;SE8;SE7;SE5;SE4;SE3;SE2;SO8;SO7;SO6;SO4;SO3;SO2,24
+2 routes,27,Ville,8,NO13;NE14;SE13,3
+2 routes,27,Capitale,4,,0
+2 routes,27,Régions N,30,NO13;NO11;NO8;NO7;NO6;NO5;NE14;NE11;NE7;NE6;NE5;NE4;NE3,13
+2 routes,27,Régions S,30,SE13;SE11;SE8;SE7;SE5;SE4;SE3;SE2;SO8;SO7;SO6;SO4;SO3;SO2,14
+2 routes,27,Régions E,30,NE14;NE11;NE7;NE6;NE5;NE4;NE3;SE13;SE11;SE8;SE7;SE5;SE4;SE3;SE2,15
+2 routes,27,Régions O,30,NO13;NO11;NO8;NO7;NO6;NO5;SO8;SO7;SO6;SO4;SO3;SO2,12
+2 routes,27,1 route,6,,0
+2 routes,27,X,27,X,27
+2 routes,27,3 routes,17,,0
+2 routes,27,4 routes ou plus,10,,0
+3 routes,17,Cité montagnarde,14,NO10;NE9;SO13,3
+3 routes,17,Cité maritime,17,,0
+3 routes,17,Cité campagnarde,28,NO12;NO9;NO3;NE13;NE8;NE2;SE14;SE10;SE9;SE6;SO12;SO9;SO5,13
+3 routes,17,Village,48,NO12;NO10;NO9;NO3;NE9;NE8;NE2;SE10;SE9;SE6;SO12;SO10;SO9;SO5,14
+3 routes,17,Ville,8,NE13;SE14;SO13,3
+3 routes,17,Capitale,4,,0
+3 routes,17,Régions N,30,NO12;NO10;NO9;NO3;NE13;NE9;NE8;NE2,8
+3 routes,17,Régions S,30,SE14;SE10;SE9;SE6;SO13;SO12;SO10;SO9;SO5,9
+3 routes,17,Régions E,30,NE13;NE9;NE8;NE2;SE14;SE10;SE9;SE6,8
+3 routes,17,Régions O,30,NO12;NO10;NO9;NO3;SO13;SO12;SO10;SO9;SO5,9
+3 routes,17,1 route,6,,0
+3 routes,17,2 routes,27,,0
+3 routes,17,X,17,X,17
+3 routes,17,4 routes ou plus,10,,0
+4 routes ou plus,10,Cité montagnarde,14,SE12;SO11,2
+4 routes ou plus,10,Cité maritime,17,NE10;NE12,2
+4 routes ou plus,10,Cité campagnarde,28,NO15;NO14;NE15;SE15;SO15;SO14,6
+4 routes ou plus,10,Village,48,NE10;NE12;SE12;SO11,4
+4 routes ou plus,10,Ville,8,NO14;SO14,2
+4 routes ou plus,10,Capitale,4,NO15;NE15;SE15;SO15,4
+4 routes ou plus,10,Régions N,30,NO15;NO14;NE10;NE15;NE12,5
+4 routes ou plus,10,Régions S,30,SE15;SE12;SO15;SO14;SO11,5
+4 routes ou plus,10,Régions E,30,NE10;NE15;NE12;SE15;SE12,5
+4 routes ou plus,10,Régions O,30,NO15;NO14;SO15;SO14;SO11,5
+4 routes ou plus,10,1 route,6,,0
+4 routes ou plus,10,2 routes,27,,0
+4 routes ou plus,10,3 routes,17,,0
+4 routes ou plus,10,X,10,X,10

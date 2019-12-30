@@ -1,0 +1,58 @@
+﻿Titre,Description,Nb de cartes,Resistance
+Outils,+1 à la fabrication de bombe,2,
+Outils,+1 à la fabrication de bombe,2,
+Camouflage,+1 à l'action de sabotage,2,
+Camouflage,+1 à l'action de sabotage,2,
+Smoking,+1 aux actions Enquêter (Recherche d'indice),2,
+Smoking,+1 aux actions Enquêter (Recherche d'indice),2,
+Leadership pour les nuls,+1 aux actions de Recrutement (Pioche de jeton Personnage/Résistance),2,
+Leadership pour les nuls,+1 aux actions de Recrutement (Pioche de jeton Personnage/Résistance),2,
+Guide du bricoleur,+1 aux actions de Fouille (Recherche d'équipement),2,
+Guide du bricoleur,+1 aux actions de Fouille (Recherche d'équipement),2,
+L'art de la guerre,+1 aux actions de tuerie,2,
+L'art de la guerre,+1 aux actions de tuerie,2,
+Tenue militaire,Ignore la présence d'un soldat pour la résolution des actions Militaire,2,
+Tenue militaire,Ignore la présence d'un soldat pour la résolution des actions Militaire,2,
+Tenue d'ingénieur,Ignore la présence d'un soldat pour la résolution des actions d'Ingénierie,2,
+Tenue d'ingénieur,Ignore la présence d'un soldat pour la résolution des actions d'Ingénierie,2,
+Tenue d'officier,Ignore la présence d'un soldat pour la résolution des actions de Communication,2,
+Tenue d'officier,Ignore la présence d'un soldat pour la résolution des actions de Communication,2,
+Tenue de soldat,Ignore la présence d'un soldat lors des déplacements,2,
+Tenue de soldat,Ignore la présence d'un soldat lors des déplacements,2,
+Carte des chemins de traverses,Permet d'emprunter les chemins de montagne comme des routes normales,2,
+Carte des chemins de traverses,Permet d'emprunter les chemins de montagne comme des routes normales,2,
+Explosif,Nécessaire à la fabrication d'une bombe,8,
+Explosif,Nécessaire à la fabrication d'une bombe,8,
+Explosif,Nécessaire à la fabrication d'une bombe,8,
+Explosif,Nécessaire à la fabrication d'une bombe,8,
+Explosif,Nécessaire à la fabrication d'une bombe,8,
+Explosif,Nécessaire à la fabrication d'une bombe,8,
+Explosif,Nécessaire à la fabrication d'une bombe,8,
+Explosif,Nécessaire à la fabrication d'une bombe,8,
+Détonateur,Nécessaire à la fabrication d'une bombe,8,
+Détonateur,Nécessaire à la fabrication d'une bombe,8,
+Détonateur,Nécessaire à la fabrication d'une bombe,8,
+Détonateur,Nécessaire à la fabrication d'une bombe,8,
+Détonateur,Nécessaire à la fabrication d'une bombe,8,
+Détonateur,Nécessaire à la fabrication d'une bombe,8,
+Détonateur,Nécessaire à la fabrication d'une bombe,8,
+Détonateur,Nécessaire à la fabrication d'une bombe,8,
+Retardateur,Nécessaire à la fabrication d'une bombe,8,
+Retardateur,Nécessaire à la fabrication d'une bombe,8,
+Retardateur,Nécessaire à la fabrication d'une bombe,8,
+Retardateur,Nécessaire à la fabrication d'une bombe,8,
+Retardateur,Nécessaire à la fabrication d'une bombe,8,
+Retardateur,Nécessaire à la fabrication d'une bombe,8,
+Retardateur,Nécessaire à la fabrication d'une bombe,8,
+Retardateur,Nécessaire à la fabrication d'une bombe,8,
+Échec partiel,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main :\13\Vous pouvez choisir cette carte et la défausser en échange d'un jeton Résistance.",11,1
+Échec partiel,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main :\13\Vous pouvez choisir cette carte et la défausser en échange d'un jeton Résistance.",11,1
+Échec partiel,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main :\13\Vous pouvez choisir cette carte et la défausser en échange d'un jeton Résistance.",11,1
+Échec partiel,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main :\13\Vous pouvez choisir cette carte et la défausser en échange d'un jeton Résistance.",11,1
+Échec partiel,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main :\13\Vous pouvez choisir cette carte et la défausser en échange d'un jeton Résistance.",11,1
+Échec partiel,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main :\13\Vous pouvez choisir cette carte et la défausser en échange d'un jeton Résistance.",11,1
+Échec partiel,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main :\13\Vous pouvez choisir cette carte et la défausser en échange d'un jeton Résistance.",11,1
+Échec partiel,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main :\13\Vous pouvez choisir cette carte et la défausser en échange d'un jeton Résistance.",11,1
+Échec partiel,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main :\13\Vous pouvez choisir cette carte et la défausser en échange d'un jeton Résistance.",11,1
+Échec partiel,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main :\13\Vous pouvez choisir cette carte et la défausser en échange d'un jeton Résistance.",11,1
+Échec partiel,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main :\13\Vous pouvez choisir cette carte et la défausser en échange d'un jeton Résistance.",11,1

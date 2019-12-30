@@ -1,0 +1,13 @@
+cardsize=1,1
+link=radio_data.txt
+
+[all]=1-{(Status)}
+[middle]="center", "center"
+[pos_triangle]=0,0,1,1
+[pos_lbl_status]=[pos_triangle],[middle]
+[col]=#000000
+font="arial",14,T,[col]
+
+polygon=[all],[pos_lbl_status],3,0,[col],EMPTY,0.1
+
+text=[all],[Status],[pos_lbl_status]

@@ -1,0 +1,112 @@
+﻿Type_id,Type_name,Region,Details,Size
+Lieu,Lieu,NO,F3,1
+Lieu,Lieu,NO,H3,1
+Lieu,Lieu,NE,Q4,1
+Lieu,Lieu,NE,T5,1
+Lieu,Lieu,NO,C5,2
+Lieu,Lieu,NO,J5,3
+Lieu,Lieu,NO,G6,1
+Lieu,Lieu,NO,I6,1
+Lieu,Lieu,NO,L6,1
+Lieu,Lieu,NE,O6,2
+Lieu,Lieu,NO,M7,1
+Lieu,Lieu,NO,E8,1
+Lieu,Lieu,NO,H8,1
+Lieu,Lieu,NE,R8,1
+Lieu,Lieu,NE,U8,1
+Lieu,Lieu,NO,C9,1
+Lieu,Lieu,NE,Q9,1
+Lieu,Lieu,NE,T9,3
+Lieu,Lieu,NO,H10,2
+Lieu,Lieu,NO,L10,1
+Lieu,Lieu,NE,R10,1
+Lieu,Lieu,NO,G11,1
+Lieu,Lieu,NO,J11,1
+Lieu,Lieu,NO,M11,1
+Lieu,Lieu,NE,O11,2
+Lieu,Lieu,NE,U11,1
+Lieu,Lieu,SO,D12,3
+Lieu,Lieu,SE,R12,1
+Lieu,Lieu,SE,V12,2
+Lieu,Lieu,SO,H13,1
+Lieu,Lieu,SO,O13,1
+Lieu,Lieu,SO,G14,1
+Lieu,Lieu,SO,I14,1
+Lieu,Lieu,SE,N14,1
+Lieu,Lieu,SE,Q14,1
+Lieu,Lieu,SE,V14,1
+Lieu,Lieu,SO,J15,1
+Lieu,Lieu,SO,L15,1
+Lieu,Lieu,SE,S15,1
+Lieu,Lieu,SO,G16,2
+Lieu,Lieu,SO,I16,1
+Lieu,Lieu,SE,M16,1
+Lieu,Lieu,SE,U16,1
+Lieu,Lieu,SO,D17,1
+Lieu,Lieu,SO,K17,1
+Lieu,Lieu,SE,Q17,3
+Lieu,Lieu,SE,S17,1
+Lieu,Lieu,SE,V17,1
+Lieu,Lieu,SO,F18,1
+Lieu,Lieu,SO,I18,1
+Lieu,Lieu,SE,O18,2
+Lieu,Lieu,SE,U18,1
+Lieu,Lieu,SO,G19,1
+Lieu,Lieu,SO,K19,2
+Lieu,Lieu,SO,M19,1
+Lieu,Lieu,SE,Q19,1
+Lieu,Lieu,SE,T19,1
+Lieu,Lieu,SE,O20,1
+Lieu,Lieu,SO,I21,1
+Lieu,Lieu,SO,K21,1
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Avan,Avancée,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le lieu indiqué gagne un soldat.,
+Renf,Renfort,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le nombre de soldats indiqués sur la carte "Renfort" sont ajoutés au lieu pioché.,
+Renf,Renfort,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le nombre de soldats indiqués sur la carte "Renfort" sont ajoutés au lieu pioché.,
+Renf,Renfort,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le nombre de soldats indiqués sur la carte "Renfort" sont ajoutés au lieu pioché.,
+Renf,Renfort,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le nombre de soldats indiqués sur la carte "Renfort" sont ajoutés au lieu pioché.,
+Renf,Renfort,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le nombre de soldats indiqués sur la carte "Renfort" sont ajoutés au lieu pioché.,
+Renf,Renfort,,Piocher une carte lieu dans le paquet "Lieux ennemis". Le nombre de soldats indiqués sur la carte "Renfort" sont ajoutés au lieu pioché.,
+Inva,Invasion,,Piocher une carte lieu dans le paquet "Lieux amis". Le nombre de soldats indiqués sur la carte "Invasion" sont ajoutés au lieu pioché.,
+Inva,Invasion,,Piocher une carte lieu dans le paquet "Lieux amis". Le nombre de soldats indiqués sur la carte "Invasion" sont ajoutés au lieu pioché.,
+Inva,Invasion,,Piocher une carte lieu dans le paquet "Lieux amis". Le nombre de soldats indiqués sur la carte "Invasion" sont ajoutés au lieu pioché.,
+Inva,Invasion,,Piocher une carte lieu dans le paquet "Lieux amis". Le nombre de soldats indiqués sur la carte "Invasion" sont ajoutés au lieu pioché.,
+Inva,Invasion,,Piocher une carte lieu dans le paquet "Lieux amis". Le nombre de soldats indiqués sur la carte "Invasion" sont ajoutés au lieu pioché.,
+Inva,Invasion,,Piocher une carte lieu dans le paquet "Lieux amis". Le nombre de soldats indiqués sur la carte "Invasion" sont ajoutés au lieu pioché.,
+Durc,Durcissement,,Avancer le marqueur "Occupation" d'un cran. Le niveau d'occupation maximum pour chaque lieu augmente alors de 1. Tous les lieux dont le niveau d'influence est supérieur au nombre de soldats stationnés remplace un marqueur influence par un marqueur soldat.,
+Durc,Durcissement,,Avancer le marqueur "Occupation" d'un cran. Le niveau d'occupation maximum pour chaque lieu augmente alors de 1. Tous les lieux dont le niveau d'influence est supérieur au nombre de soldats stationnés remplace un marqueur influence par un marqueur soldat.,
+Durc,Durcissement,,Avancer le marqueur "Occupation" d'un cran. Le niveau d'occupation maximum pour chaque lieu augmente alors de 1. Tous les lieux dont le niveau d'influence est supérieur au nombre de soldats stationnés remplace un marqueur influence par un marqueur soldat.,

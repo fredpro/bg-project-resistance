@@ -1,0 +1,18 @@
+cardsize=2,2
+
+[all]=1-20
+[all_recto]=1-10
+[all_verso]=11-20
+[middle]="center", "wwcenter"
+
+ellipse=[all],0,0,2,2,#EE2222
+ellipse=[all],0,0,2,2,#000000,EMPTY,0.05
+
+font="arial",9,T,#000000
+TEXT=[all],"Planification +1",0,0,2,2,"center", "wwcenter"
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=0,0,0,0
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

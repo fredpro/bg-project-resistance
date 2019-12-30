@@ -1,0 +1,14 @@
+﻿Titre,Description,Nb de cartes,Resistance
+Leadership pour les nuls,+1 aux actions de Recrutement (Pioche de jeton Personnage),2,
+Leadership pour les nuls,+1 aux actions de Recrutement (Pioche de jeton Personnage),2,
+Échec,"Malheureusement, vous n'avez rien trouvé d'intéressant pendant votre recherche.",6,0
+Échec,"Malheureusement, vous n'avez rien trouvé d'intéressant pendant votre recherche.",6,0
+Échec,"Malheureusement, vous n'avez rien trouvé d'intéressant pendant votre recherche.",6,0
+Échec,"Malheureusement, vous n'avez rien trouvé d'intéressant pendant votre recherche.",6,0
+Échec,"Malheureusement, vous n'avez rien trouvé d'intéressant pendant votre recherche.",6,0
+Échec,"Malheureusement, vous n'avez rien trouvé d'intéressant pendant votre recherche.",6,0
+Échec relatif,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main.\13\-> Obtenez 1 cube Réputation",3,1
+Échec relatif,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main.\13\-> Obtenez 1 cube Réputation",3,1
+Échec relatif,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main.\13\-> Obtenez 1 cube Réputation",3,1
+Échec relatif,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main.\13\-> Obtenez 2 cubes Réputation",2,2
+Échec relatif,"Vous n'avez rien trouvé d'intéressant.\13\Néanmoins la population est prête à vous donner un coup de main.\13\-> Obtenez 2 cubes Réputation",2,2

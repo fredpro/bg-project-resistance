@@ -1,0 +1,111 @@
+link=skill_character_sheets_data.txt
+PAGE=21,29.7,LANDSCAPE
+cardsize=20,13
+[all]="1-{(Special_Skill)*2}"
+[all_recto]="1-{(Special_Skill)}"
+[all_verso]="{(Special_Skill)+1}-{(Special_Skill)*2}"
+[middle]="center","center"
+[left]="left","center"
+[pos_bg]=0,0,20,13
+[circle_diam]=2,2
+[pos_circle_ID]=7.1,0.5,[circle_diam]
+[pos_txt_skill_Com]=0.5,2.5,4,0.5
+[pos_circle_skill_Com_1]=0.5,3.2,[circle_diam]
+[pos_circle_skill_Com_2]=2.7,3.2,[circle_diam]
+[pos_circle_skill_Com_3]=4.9,3.2,[circle_diam]
+[pos_circle_skill_Com_4]=7.1,3.2,[circle_diam]
+[pos_circle_skill_Com_5]=9.3,3.2,[circle_diam]
+[pos_circle_skill_Com_6]=11.5,3.2,[circle_diam]
+[pos_txt_skill_Mil]=0.5,5.5,4,0.5
+[pos_circle_skill_Mil_1]=0.5,6.2,[circle_diam]
+[pos_circle_skill_Mil_2]=2.7,6.2,[circle_diam]
+[pos_circle_skill_Mil_3]=4.9,6.2,[circle_diam]
+[pos_circle_skill_Mil_4]=7.1,6.2,[circle_diam]
+[pos_circle_skill_Mil_5]=9.3,6.2,[circle_diam]
+[pos_circle_skill_Mil_6]=11.5,6.2,[circle_diam]
+[pos_txt_skill_Ing]=0.5,8.5,4,0.5
+[pos_circle_skill_Ing_1]=0.5,9.2,[circle_diam]
+[pos_circle_skill_Ing_2]=2.7,9.2,[circle_diam]
+[pos_circle_skill_Ing_3]=4.9,9.2,[circle_diam]
+[pos_circle_skill_Ing_4]=7.1,9.2,[circle_diam]
+[pos_circle_skill_Ing_5]=9.3,9.2,[circle_diam]
+[pos_circle_skill_Ing_6]=11.5,9.2,[circle_diam]
+[pos_v_line]=14,2.5,14,11.5
+[pos_spec_skill_title]=14.5,3,5,0.5
+[pos_spec_skill_desc]=14.5,3.5,4.5,5
+[pos_text_upgrade]=18.75,7,1,4
+[pos_upgrade]=19.5,6,1,6
+[pos_text_obj1]=0.5,12,4,0.5
+[pos_obj1]=0.5,12.5,4,1
+[pos_text_obj2]=5.5,12,4,0.5
+[pos_obj2]=5.5,12.5,4,1
+[pos_text_obj3]=10.5,12,4,0.5
+[pos_obj3]=10.5,12.5,4,1
+[pos_text_obj4]=15.5,12,4,0.5
+[pos_obj4]=15.5,12.5,4,1
+
+[pos_lbl_verso]=0,0,20,13
+
+[white]=#FFFFFF
+[black]=#000000
+
+[FONT_SKILL]="arial",12, TB, [black]
+[FONT_SPEC_SKILL_TITLE]="arial",12, TB, [black]
+[FONT_SPEC_SKILL_DESC]="arial",11, T, [black]
+[FONT_CARDS]="arial",10, T, [black]
+[FONT_VERSO]="arial",32, TB, [black]
+
+RECTANGLE=[all_recto],[pos_bg],[black],EMPTY,0.2
+ellipse=[all_recto],[pos_circle_ID],[black],EMPTY,0.1
+
+FONT=[FONT_SKILL]
+TEXT=[all_recto],"Communication :",[pos_txt_skill_Com],[left]
+TEXT=[all_recto],"Militaire :",[pos_txt_skill_Mil],[left]
+TEXT=[all_recto],"Ingénierie :",[pos_txt_skill_Ing],[left]
+
+ellipse=[all_recto],[pos_circle_skill_Com_1],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Com_2],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Com_3],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Com_4],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Com_5],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Com_6],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Mil_1],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Mil_2],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Mil_3],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Mil_4],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Mil_5],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Mil_6],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Ing_1],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Ing_2],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Ing_3],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Ing_4],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Ing_5],[black],EMPTY,0.05
+ellipse=[all_recto],[pos_circle_skill_Ing_6],[black],EMPTY,0.05
+
+LINE=[all_recto],[pos_v_line],[black],0.05
+
+FONT=[FONT_SPEC_SKILL_TITLE]
+TEXT=[all_recto],"[Titre] :",[pos_spec_skill_title],[left]
+FONT=[FONT_SPEC_SKILL_DESC]
+TEXT=[all_recto],"[Description]",[pos_spec_skill_desc],left, wordwrap
+
+FONT=[FONT_CARDS]
+TEXT=[all_recto],"UPGRADES",[pos_text_upgrade],center,center,270
+RECTANGLE=[all_recto],[pos_upgrade],[black],EMPTY,0.05
+TEXT=[all_recto],"INVENTORY",[pos_text_obj1],center,center
+RECTANGLE=[all_recto],[pos_obj1],[black],EMPTY,0.05
+TEXT=[all_recto],"INVENTORY",[pos_text_obj2],center,center
+RECTANGLE=[all_recto],[pos_obj2],[black],EMPTY,0.05
+TEXT=[all_recto],"INVENTORY",[pos_text_obj3],center,center
+RECTANGLE=[all_recto],[pos_obj3],[black],EMPTY,0.05
+TEXT=[all_recto],"INVENTORY",[pos_text_obj4],center,center
+RECTANGLE=[all_recto],[pos_obj4],[black],EMPTY,0.05
+
+FONT=[FONT_VERSO]
+TEXT=[all_verso],"Player Sheet",[pos_lbl_verso],[middle]
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=0,0,0,0
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

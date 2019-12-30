@@ -1,0 +1,8 @@
+﻿ID,Nom,Reticence,Communication,Militaire,Ingenierie,Skill,Skill_Title,Skill_Desc,Chara_icon,Resistance
+-,,,,,,,,,,0
+-,,,,,,,,,,0
+-,,,,,,,,,,0
+-,,,,,,,,,,0
+-,,,,,,,,,,1
+-,,,,,,,,,,1
+-,,,,,,,,,,2

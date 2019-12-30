@@ -1,0 +1,121 @@
+﻿Titre,Description
+Outils,+1 réussite aux actions d'ingénierie
+Outils,+1 réussite aux actions d'ingénierie
+Outils,+1 réussite aux actions d'ingénierie
+Tenue de camouflage,+1 réussite aux actions militaires
+Tenue de camouflage,+1 réussite aux actions militaires
+Tenue de camouflage,+1 réussite aux actions militaires
+Smoking,+1 réussite aux actions de communication
+Smoking,+1 réussite aux actions de communication
+Smoking,+1 réussite aux actions de communication
+"Guide du bricoleur",ignore le malus du 1 sur le dé de chance pour les actions d'ingénierie
+"Guide du bricoleur",ignore le malus du 1 sur le dé de chance pour les actions d'ingénierie
+"Guide du bricoleur",ignore le malus du 1 sur le dé de chance pour les actions d'ingénierie
+"L'art de la guerre",ignore le malus du 1 sur le dé de chance pour les actions militaires
+"L'art de la guerre",ignore le malus du 1 sur le dé de chance pour les actions militaires
+"L'art de la guerre",ignore le malus du 1 sur le dé de chance pour les actions militaires
+"Négociations avancées",ignore le malus du 1 sur le dé de chance pour les actions de communication
+"Négociations avancées",ignore le malus du 1 sur le dé de chance pour les actions de communication
+"Négociations avancées",ignore le malus du 1 sur le dé de chance pour les actions de communication
+Pièces détachées de bateau,nécessaire pour réparer une épave de bateau
+Pièces détachées de bateau,nécessaire pour réparer une épave de bateau
+Pièces détachées de bateau,nécessaire pour réparer une épave de bateau
+Pièces détachées de bateau,nécessaire pour réparer une épave de bateau
+Pièces détachées de bateau,nécessaire pour réparer une épave de bateau
+Pièces détachées de bateau,nécessaire pour réparer une épave de bateau
+Pièces détachées de voiture,nécessaire pour réparer une épave de voiture
+Pièces détachées de voiture,nécessaire pour réparer une épave de voiture
+Pièces détachées de voiture,nécessaire pour réparer une épave de voiture
+Pièces détachées de voiture,nécessaire pour réparer une épave de voiture
+Pièces détachées de voiture,nécessaire pour réparer une épave de voiture
+Pièces détachées de voiture,nécessaire pour réparer une épave de voiture
+Pièces de rechange de radio,nécessaire pour réparer une station de radio
+Pièces de rechange de radio,nécessaire pour réparer une station de radio
+Pièces de rechange de radio,nécessaire pour réparer une station de radio
+Pièces de rechange de radio,nécessaire pour réparer une station de radio
+Pièces de rechange de radio,nécessaire pour réparer une station de radio
+Pièces de rechange de radio,nécessaire pour réparer une station de radio
+Pièces de rechange de radio,nécessaire pour réparer une station de radio
+Pièces de rechange de radio,nécessaire pour réparer une station de radio
+Pièces de rechange de radio,nécessaire pour réparer une station de radio
+Pièces de rechange de radio,nécessaire pour réparer une station de radio
+Epave de véhicule,ajoute un jeton voiture ou bateau dans le lieu fouillé ; peut être réparé avec des pièces de rechange adequat
+Epave de véhicule,ajoute un jeton voiture ou bateau dans le lieu fouillé ; peut être réparé avec des pièces de rechange adequat
+Epave de véhicule,ajoute un jeton voiture ou bateau dans le lieu fouillé ; peut être réparé avec des pièces de rechange adequat
+Epave de véhicule,ajoute un jeton voiture ou bateau dans le lieu fouillé ; peut être réparé avec des pièces de rechange adequat
+Epave de véhicule,ajoute un jeton voiture ou bateau dans le lieu fouillé ; peut être réparé avec des pièces de rechange adequat
+Epave de véhicule,ajoute un jeton voiture ou bateau dans le lieu fouillé ; peut être réparé avec des pièces de rechange adequat
+Epave de véhicule,ajoute un jeton voiture ou bateau dans le lieu fouillé ; peut être réparé avec des pièces de rechange adequat
+Epave de véhicule,ajoute un jeton voiture ou bateau dans le lieu fouillé ; peut être réparé avec des pièces de rechange adequat
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Jerricane d'essence,bon pour 4 jetons d'essence
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien
+Rien

@@ -1,0 +1,33 @@
+link=event_cards_data.txt
+cardsize=6,9
+[all]="1-{(Type_id)*2}"
+[pos_type]=0.5,1,5,2
+[pos_details]=0.5,4,5,2
+
+[middle]="center","center"
+[white]=#FFFFFF
+[black]=#000000
+[bg_Coll]=#33AA33
+[bg_Recr]=#AA3333
+[bg_Renf]=#3333AA
+[bg_Deba]=#CCCCFF
+[bg_Inte]=#CCFFFF
+
+[FONT_EVENT]="arial",16, TB, [white]
+[FONT_TYPE]="arial",14, TB, [black]
+[FONT_DETAILS]="arial",12,T, [black]
+
+rectangle=[all],0,0,6,9,[black]
+rectangle="1-{(Type_id)}",0.1,0.1,5.8,8.8,[bg_[Type_id]]
+
+FONT=[FONT_EVENT]
+TEXT="{(Type_id)+1}-{(Type_id)*2}","Evénement",[pos_details],center,wordwrap
+
+FONT=[FONT_TYPE]
+TEXT="1-{(Type_id)}",[Type_name],[pos_type],center,wordwrap
+
+FONT=[FONT_DETAILS]
+TEXT="1-{(Type_id)}",[Details],[pos_details],center,wordwrap
+
+DUPLEX="1-{(Type_id)}","{(Type_id)+1}-{(Type_id)*2}"
+PRINT=DUPLEX

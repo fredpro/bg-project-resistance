@@ -1,0 +1,55 @@
+﻿PAGE=21,29.7,LANDSCAPE,H
+cardsize=7.2,10.8
+linksep=,
+link=clue_cards_data.txt
+[all]="1-{(Titre)*2}"
+[all_recto]="1-{(Titre)}"
+[all_verso]="{(Titre)+1}-{(Titre)*2}"
+[pos_titre]=0.3,0.3,6.6,5
+[pos_description]=0.5,2.6,6.2,8
+[pos_map]=0.1,1,7,8
+[pos_lbl_verso]=0.1,0.1,7,2
+[map_file_name]="Project Resistance - Clue cards map.png"
+[single_cube_icon]="single-cube.png"
+[double_cubes_icon]="double-cubes.png"
+[pos_cube_icons]=5.5,0.3,1.5,0.5
+
+[middle]="center","center"
+[white]=#FFFFFF
+[black]=#000000
+[bg_recto]=#FFFFFF
+[bg_verso]=#FFFFFF
+;#FFEEEE
+
+[FONT_TITRE]="arial",12, TB, [black]
+[FONT_DESCRIPTION]="arial",10, TI, [black]
+[FONT_VERSO]="arial",24, TB, [black]
+
+rectangle=[all_recto],0,0,7.2,10.8,[black]
+rectangle=[all_recto],0.1,0.1,7,10.6,[bg_recto]
+rectangle=[all_verso],0,0,7.2,10.8,[bg_verso]
+
+FONT=[FONT_TITRE]
+TEXT=[all_recto],[Titre],[pos_titre],center,wwtop
+
+FONT=[FONT_DESCRIPTION]
+IF=[Nb_Lieux]>0
+    TEXT=[all_recto],[Description],[pos_description],center,wwbottom
+    IMAGE=[all_recto],[map_file_name],[pos_map],0,"APN",100
+ELSE
+    TEXT=[all_recto],[Description],[pos_description],left,wwtop
+    IF=[Resistance]=1
+        IMAGE=[all_recto],[single_cube_icon],[pos_cube_icons],0,"APN",100
+    ELSEIF=[Resistance]=2
+        IMAGE=[all_recto],[double_cubes_icon],[pos_cube_icons],0,"APN",100
+    ENDIF
+ENDIF
+
+FONT=[FONT_VERSO]
+TEXT=[all_verso],"Indice",[pos_lbl_verso],[middle]
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=0,0,0,0
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

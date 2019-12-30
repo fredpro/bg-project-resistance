@@ -1,0 +1,10 @@
+﻿ID,Nom,Base_AP,Communication,Militaire,Ingenierie,Capacite speciale
+A,John Stark,3,1,5,3,ELITE
+D,George Tasker,3,1,4,4,TRACK
+E,Tom Llewellyn,3,4,3,2,CHARISM
+L,Howard Courtenay,3,2,2,5,EXPERT
+R,Charles Ambler,4,3,3,3,POLY
+X,Virginia Caygill,3,4,4,1,HOPE
+AA,Davy Hart,3,5,1,3,PASS
+AB,Jenny Adams,3,3,2,4,SEARCH
+AC,Sarah Maddocks,3,5,3,1,SPY

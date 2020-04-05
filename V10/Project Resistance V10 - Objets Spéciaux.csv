@@ -1,0 +1,5 @@
+﻿Titre,Description,Image,Nb de cartes,Resistance
+Bombe,"Nécessite Explosif, Retardateur et Détonateur.\13\\13\Permet de saboter une base ennemie (Niveau militaire - nb soldats >= 5)\13\\13\Usage unique -> Défausser après usage.",bomb.png,6,
+Fusil de sniper,"Nécessite Lunette de sniper et Fusil d'assaut.\13\\13\Permet de tuer des soldats à distance, depuis une zone voisine (Niveau militaire > Nb soldats)\13\\13\4 balles représentées par 4 cubes. Défausser un cube à chaque usage.\13\Défausser la carte une fois les 4 balles utilisées.",sniper_rifle.png,2,
+Grenade,"Nécessite Grande défectueuse et Amorce de grenade.\13\\13\Permet d'éliminer tous les soldats d'une zone d'un coup (Niveau militaire > Nb soldats+1).\13\\13\Usage unique -> Défausser après usage.",greenade.png,4,
+Radio Pirate,"Nécessite un Émetteur radio longue-distance et un Encrypteur d'ondes radio.\13\\13\Choisir une carte Résistance dans la pioche ou la défausse, et l'ajouter aux cartes disponibles.\13\\13\-> Défausser après usage",radio.png,2,

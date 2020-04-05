@@ -1,0 +1,118 @@
+﻿CARDSIZE=1.5,1.5
+LINKMULTI=Taille
+link=zone_data.txt
+
+[all]="1-{(ID)*2}"
+[all_recto]="1-{(ID)}"
+[all_verso]="{(ID)+1}-{(ID)*2}"
+[middle]="center", "center"
+[pos_lbl_name]=0,0,1.5,1.5,[middle]
+[pos_lbl_verso]=0,0,1.5,1.5,[middle]
+
+[color_N_3]=#800000
+[color_N_2]=#ff0101
+[color_N_1]=#ff8181
+[color_NE_3]=#806000
+[color_NE_2]=#ffc001
+[color_NE_1]=#ffe081
+[color_E_3]=#3f8000
+[color_E_2]=#7fff01
+[color_E_1]=#bfff81
+[color_SE_3]=#008021
+[color_SE_2]=#01ff43
+[color_SE_1]=#81ffa2
+[color_S_3]=#007e80
+[color_S_2]=#01fcff
+[color_S_1]=#81feff
+[color_SO_3]=#001e80
+[color_SO_2]=#013dff
+[color_SO_1]=#819fff
+[color_O_3]=#420080
+[color_O_2]=#8401ff
+[color_O_1]=#c281ff
+[color_NO_3]=#80005d
+[color_NO_2]=#ff01ba
+[color_NO_1]=#ff81dd
+
+IF=[Region]="N"
+    IF=[Taille]=3
+        rectangle=[all],0,0,1.5,1.5,[color_N_3]
+    ELSEIF=[Taille]=2
+        rectangle=[all],0,0,1.5,1.5,[color_N_2]
+    ELSEIF=[Taille]=1
+        rectangle=[all],0,0,1.5,1.5,[color_N_1]
+    ENDIF
+ELSEIF=[Region]="NE"
+    IF=[Taille]=3
+        rectangle=[all],0,0,1.5,1.5,[color_NE_3]
+    ELSEIF=[Taille]=2
+        rectangle=[all],0,0,1.5,1.5,[color_NE_2]
+    ELSEIF=[Taille]=1
+        rectangle=[all],0,0,1.5,1.5,[color_NE_1]
+    ENDIF
+ELSEIF=[Region]="E"
+    IF=[Taille]=3
+        rectangle=[all],0,0,1.5,1.5,[color_E_3]
+    ELSEIF=[Taille]=2
+        rectangle=[all],0,0,1.5,1.5,[color_E_2]
+    ELSEIF=[Taille]=1
+        rectangle=[all],0,0,1.5,1.5,[color_E_1]
+    ENDIF
+ELSEIF=[Region]="SE"
+    IF=[Taille]=3
+        rectangle=[all],0,0,1.5,1.5,[color_SE_3]
+    ELSEIF=[Taille]=2
+        rectangle=[all],0,0,1.5,1.5,[color_SE_2]
+    ELSEIF=[Taille]=1
+        rectangle=[all],0,0,1.5,1.5,[color_SE_1]
+    ENDIF
+ELSEIF=[Region]="S"
+    IF=[Taille]=3
+        rectangle=[all],0,0,1.5,1.5,[color_S_3]
+    ELSEIF=[Taille]=2
+        rectangle=[all],0,0,1.5,1.5,[color_S_2]
+    ELSEIF=[Taille]=1
+        rectangle=[all],0,0,1.5,1.5,[color_S_1]
+    ENDIF
+ELSEIF=[Region]="SO"
+    IF=[Taille]=3
+        rectangle=[all],0,0,1.5,1.5,[color_SO_3]
+    ELSEIF=[Taille]=2
+        rectangle=[all],0,0,1.5,1.5,[color_SO_2]
+    ELSEIF=[Taille]=1
+        rectangle=[all],0,0,1.5,1.5,[color_SO_1]
+    ENDIF
+ELSEIF=[Region]="O"
+    IF=[Taille]=3
+        rectangle=[all],0,0,1.5,1.5,[color_O_3]
+    ELSEIF=[Taille]=2
+        rectangle=[all],0,0,1.5,1.5,[color_O_2]
+    ELSEIF=[Taille]=1
+        rectangle=[all],0,0,1.5,1.5,[color_O_1]
+    ENDIF
+ELSEIF=[Region]="NO"
+    IF=[Taille]=3
+        rectangle=[all],0,0,1.5,1.5,[color_NO_3]
+    ELSEIF=[Taille]=2
+        rectangle=[all],0,0,1.5,1.5,[color_NO_2]
+    ELSEIF=[Taille]=1
+        rectangle=[all],0,0,1.5,1.5,[color_NO_1]
+    ENDIF
+ENDIF
+
+IF=[Taille]=3
+    font="arial",14,TB,#FFFFFF
+    text=[all],[ID],[pos_lbl_name]
+ELSEIF=[Taille]=2
+    font="arial",13,TB,#000000
+    text=[all],[ID],[pos_lbl_name]
+ELSE
+    font="arial",12,TB,#000000
+    text=[all],[ID],[pos_lbl_name]
+ENDIF
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=2,2,2,2
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

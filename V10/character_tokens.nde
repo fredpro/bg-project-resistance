@@ -1,0 +1,45 @@
+﻿CARDSIZE=2,2
+link=Project Resistance V10 - PNJ.csv
+
+[all]="1-{(ID)*2}"
+[all_recto]="1-{(ID)}"
+[all_verso]="{(ID)+1}-{(ID)*2}"
+[middle]="center", "center"
+[pos_lbl_name]=0,0,2,2,[middle]
+[pos_lbl_skill_com]=-0.2,0.8,1,1,[middle],60
+[pos_lbl_skill_mil]=0.5,1.3,1,1,[middle],0
+[pos_lbl_skill_ing]=1.2,0.8,1,1,[middle],-60
+[pos_icon]=0.25,0.25,1.5,1.5
+[single_cube_icon]=".\Icons\single-cube.png"
+[double_cubes_icon]=".\Icons\double-cubes.png"
+[pos_cube_icons]=0.25,0.5,1.5,1
+
+ellipse=[all],0,0,2,2,#0000FF
+
+font="arial",14,TB,#FFFFFF
+IF=[ID]<>"-"
+    text=[all],[ID],[pos_lbl_name]
+    font="arial",10,T,#FFFFFF
+    text=[all],"C{[Communication]}",[pos_lbl_skill_com]
+    text=[all],"M{[Militaire]}",[pos_lbl_skill_mil]
+    text=[all],"I{[Ingenierie]}",[pos_lbl_skill_ing]
+ELSE
+    IF=[Resistance]=1
+        IMAGE=[all],[single_cube_icon],[pos_cube_icons],0,"APN",100
+    ELSEIF=[Resistance]=2
+        IMAGE=[all],[double_cubes_icon],[pos_cube_icons],0,"APN",100
+    ELSE
+        text=[all],[ID],[pos_lbl_name]
+    ENDIF
+ENDIF
+
+;ellipse=[all_verso],0,0,2,2,#000000,EMPTY,0.0
+;ellipse=[all_verso],0,0,2,2,#FFBB00
+;
+;IMAGE=[all_verso],"superhero.png",[pos_icon],0,"APN",100
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=2,2,2,2
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

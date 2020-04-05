@@ -1,0 +1,11 @@
+﻿Titre,Icon,Description,Cout,Icon maj,Nb de cartes,Resistance
+Comme un chef,medal.svg,Réussir automatiquement la prochaine action entreprise avec le niveau maximum dans la compétence (5).,4,success.svg,1,
+Comme un chef,medal.svg,Réussir automatiquement la prochaine action entreprise avec le niveau maximum dans la compétence (5).,4,success.svg,1,
+Transport aérien,chopper.svg,Se déplacer n'importe où depuis n'importe quel lieu en hélicoptère.,4,military-helicopter.svg,1,
+Mission commando,soldier-1.svg,Retirer jusqu'à 4 soldats standards ou 2 officiers (au total) n'importe où sur la carte.,4,gun.svg,1,
+Fouille ciblée,loupe.svg,"Prendre une carte objet au choix dans la pioche ou la défausse d'objets, sans poser de cube ""Réputation"".",4,magnifier.svg,1,
+Enquête ciblée,question.svg,"Prendre une carte indice au choix dans la pioche ou la défausse d'indices, sans poser de cube ""Réputation"".",4,user.svg,1,
+Ralentir l'ennemi,privacy.svg,"Ne pas faire les 2 prochaines actions de l'armée.\13\-> Avancer le marqueur d'actions de l'armée de deux cases.",6,palm-of-hand.svg,1,
+Transfert à distance,truck_white.svg,Faire une action d'échange à distance avec n'importe quel joueur.,4,truck_black.svg,1,
+S'entraîner,study_white.svg,"S'entrainer dans une compétence au choix.\13\-> Ajouter un jeton ""+1 Entrainement"" à une compétence.",5,study_black.svg,1,
+S'entraîner,study_white.svg,"S'entrainer dans une compétence au choix.\13\-> Ajouter un jeton ""+1 Entrainement"" à une compétence.",5,study_black.svg,1,

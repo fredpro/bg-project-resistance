@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2042"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="player_pawns.svg">
+  <defs
+     id="defs2036" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="267.53602"
+     inkscape:cy="807.00427"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2039">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="display:inline;fill:#fff300;fill-opacity:1;stroke:#000000;stroke-width:0.67239207;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 48.630251,63.995353 c 0,0 -0.24102,-4.71152 1.11693,-5.37516 -1.33306,-2.50038 -0.59728,-5.86508 2.16794,-5.86253 0,0 -1.51141,-0.56235 -1.74985,-2.57118 -0.23843,-2.00883 1.02158,-3.73919 2.89523,-3.73919 1.89255,0 3.15992,1.29453 2.99545,3.59715 -0.164479,2.30262 -1.82846,2.67 -1.82846,2.67 3.15737,0.0108 3.4233,2.91108 2.312551,5.89406 1.36829,1.02227 0.972309,5.36525 0.972309,5.36525 z"
+       id="path4839-9-3-1-5-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscsccccc"
+       inkscape:export-filename="D:\Workspace\Projet\Project Resistance - Board Game\V8\Icons\occupe_min.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#0ed600;fill-opacity:1;stroke:#000000;stroke-width:0.65063661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 61.744457,63.818754 c 0,0 -0.233239,-4.55908 1.08078,-5.20124 -1.289928,-2.41949 -0.577958,-5.67533 2.097781,-5.67286 0,0 -1.46249,-0.54414 -1.69322,-2.48799 -0.230719,-1.94383 0.988521,-3.61819 2.801549,-3.61819 1.831311,0 3.05767,1.25263 2.898531,3.48076 -0.159149,2.22811 -1.769311,2.58361 -1.769311,2.58361 3.055231,0.0104 3.312552,2.8169 2.237751,5.70334 1.32402,0.9892 0.94084,5.19165 0.94084,5.19165 z"
+       id="path4839-9-3-1-7-5-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscsccccc"
+       inkscape:export-filename="D:\Workspace\Projet\Project Resistance - Board Game\V8\Icons\occupe_min.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#0060fa;fill-opacity:1;stroke:#000000;stroke-width:0.62553048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 74.11892,63.797834 c 0,0 -0.22424,-4.38315 1.03908,-5.00053 -1.24016,-2.32613 -0.55564,-5.45632 2.01685,-5.45395 0,0 -1.40608,-0.52315 -1.62789,-2.392 -0.22183,-1.86882 0.95038,-3.47859 2.69343,-3.47859 1.76066,0 2.9397,1.20432 2.78669,3.34645 -0.153,2.14214 -1.701021,2.48392 -1.701021,2.48392 2.937331,0.01 3.184721,2.70821 2.151381,5.48328 1.272931,0.95104 0.90454,4.99133 0.90454,4.99133 z"
+       id="path4839-9-3-1-7-8-1-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscsccccc"
+       inkscape:export-filename="D:\Workspace\Projet\Project Resistance - Board Game\V8\Icons\occupe_min.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#6400fa;fill-opacity:1;stroke:#000000;stroke-width:0.64587045;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 22.983023,64.208156 c 0,0 -0.23153,-4.52565 1.07287,-5.16311 -1.28049,-2.40177 -0.57373,-5.63375 2.08241,-5.63129 0,0 -1.45179,-0.54018 -1.68081,-2.46979 -0.22904,-1.92959 0.98128,-3.59168 2.78101,-3.59168 1.81791,0 3.03528,1.24347 2.8773,3.45525 -0.15798,2.2118 -1.75634,2.56469 -1.75634,2.56469 3.03284,0.0103 3.28828,2.79625 2.22134,5.66157 1.31432,0.98197 0.93396,5.15362 0.93396,5.15362 z"
+       id="path4839-9-3-1-7-8-2-3-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscsccccc"
+       inkscape:export-filename="D:\Workspace\Projet\Project Resistance - Board Game\V8\Icons\occupe_min.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#ff8b00;fill-opacity:1;stroke:#000000;stroke-width:0.67239207;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 35.590413,64.357132 c 0,0 -0.24102,-4.71152 1.11693,-5.37516 -1.33306,-2.50038 -0.59728,-5.86508 2.16794,-5.86253 0,0 -1.51141,-0.56235 -1.74985,-2.57118 -0.23843,-2.00883 1.02158,-3.73919 2.89523,-3.73919 1.89255,0 3.15992,1.29453 2.99545,3.59715 -0.164479,2.30262 -1.82846,2.67 -1.82846,2.67 3.15737,0.0108 3.4233,2.91108 2.312551,5.89406 1.36829,1.02227 0.972309,5.36525 0.972309,5.36525 z"
+       id="path4839-9-3-1-5-5-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscsccccc"
+       inkscape:export-filename="D:\Workspace\Projet\Project Resistance - Board Game\V8\Icons\occupe_min.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

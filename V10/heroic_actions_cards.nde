@@ -1,0 +1,84 @@
+PAGE=21,29.7,PORTRAIT,H
+LINKMULTI=Nb de cartes
+link=Project Resistance V10 - Actions Résistance 3j.csv
+cardsize=6,9
+[all]="1-{(Titre)*2}"
+[all_recto]="1-{(Titre)}"
+[all_verso]="{(Titre)+1}-{(Titre)*2}"
+[pos_icon_titre]=0.25,0.5,1,1.5
+[pos_titre]=1.5,0.5,4,1.5
+[pos_titre_no_icon]=0.5,0.5,5,1.5
+[pos_div_titre]=0.25,2.3,5.75,2.3
+[pos_icon_action_maj]=0.5,2.5,1,5
+[pos_action_maj]=1.75,2.5,4,5
+[pos_action_maj_no_icon]=0.5,2.5,5,4
+[pos_icon]=5,0.8,0.8,0.8
+[pos_squares_maj_x_3]=2
+[pos_squares_maj_x_4]=1.5
+[pos_squares_maj_x_5]=1
+[pos_squares_maj_x_6]=0.6
+[pos_squares_maj_x_7]=0.2
+[pos_squares_maj_y]=7
+[pos_squares_maj_w]=0.8
+[pos_squares_maj_h]=0.8
+[pos_explanation]=0.5,8,5,0.5
+[single_cube_icon]=".\Icons\single-cube.png"
+
+[middle]="center","center"
+[white]=#FFFFFF
+[black]=#000000
+[bg_color]=#FFFFFF
+;#FFBB00
+
+[FONT_TITRE]="arial",14, TB, [black]
+[FONT_ACTION_MAJ]="arial",11,T, [black]
+[FONT_INVASION]="arial",9,T, [black]
+[FONT_EXPLANATION]="arial",7,TI, [black]
+[FONT_VERSO]="arial",24, TB, [black]
+
+rectangle=[all_recto],0,0,6,9,[bg_color]
+RECTANGLE=[all_recto],0,0,6,9,[black],EMPTY,0.2
+
+FONT=[FONT_TITRE]
+IF=[Icon]<>""
+VECTOR=[all_recto],".\Icons\heroic cards\[Icon]",[pos_icon_titre]
+TEXT=[all_recto],[Titre],[pos_titre],center,wwcenter
+ELSE
+TEXT=[all_recto],[Titre],[pos_titre_no_icon],center,wwcenter
+ENDIF
+
+LINE=[all_recto],[pos_div_titre],[black],0.1
+
+FONT=[FONT_ACTION_MAJ]
+IF=[Icon maj]<>""
+VECTOR=[all_recto],".\Icons\heroic cards\[Icon maj]",[pos_icon_action_maj]
+TEXT=[all_recto],[Description],[pos_action_maj],left,wwcenter
+ELSE
+TEXT=[all_recto],[Description],[pos_action_maj_no_icon],center,wwcenter
+ENDIF
+
+IF={[Cout]}=3
+    counter=[all_recto],BB,[pos_squares_maj_x_3]
+ELSEIF={[Cout]}=4
+    counter=[all_recto],BB,[pos_squares_maj_x_4]
+ELSEIF={[Cout]}=5
+    counter=[all_recto],BB,[pos_squares_maj_x_5]
+ELSEIF={[Cout]}=6
+    counter=[all_recto],BB,[pos_squares_maj_x_6]
+ELSEIF={[Cout]}=7
+    counter=[all_recto],BB,[pos_squares_maj_x_7]
+ELSE
+    counter=0.0
+ENDIF
+
+FONT=[FONT_INVASION]
+FOR = A,1,[Cout]
+    rectangle=[all_recto],{BB+(A-1)*[pos_squares_maj_w]},[pos_squares_maj_y],[pos_squares_maj_w],[pos_squares_maj_h],[black],EMPTY,0.05
+    IMAGE=[all_recto],[single_cube_icon],{BB+(A-1)*[pos_squares_maj_w]+0.1},[pos_squares_maj_y]+0.1,[pos_squares_maj_w]-0.2,[pos_squares_maj_h]-0.2,0,"APN",100
+NEXT
+
+FONT=[FONT_VERSO]
+TEXT=[all_verso],"Résistance\13\(3j)",0,0,6,9,center,wwcenter
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

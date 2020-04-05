@@ -1,0 +1,9 @@
+﻿ID,Nom,Image,Reticence,Deplacement,Communication,Militaire,Ingenierie,Réputation,Skill,Skill_Title,Skill_Desc,Relationship
+A,John Stark,John_Stark.png,2,3,1,3,2,0,ELITE,Agent d'élite,Peut éliminer deux soldats (au lieu d'un seul) d'une zone pour une action.,2.09375
+D,Jenny Adams,Woman_1.png,2,3,2,3,1,1,TRACK,Pisteur,Permet d'emprunter les chemins de montagne comme une route normale.,2.0625
+E,Tom Llewellyn,Man_14.png,3,3,3,2,1,2,PI,Discret,N'est pas impacté par les soldats lors d'une action Recruter.,2.25
+R,Charles Ambler,Man_13.png,2,3,2,2,2,2,POLY,Polyvalent,"Commence avec un jeton Planification, et ne le défausse jamais. Au début de chaque tour des joueurs, il peut déplacer ce jeton sur une autre compétence.",2.0625
+S,Virginia Caygill,Woman_4.png,2,3,2,2,2,3,HERO,Héros de la Résistance,Un cube Réputation est ajouté de la réserve à chaque action Préparer une action Résistance.,2.125
+AB,George Tasker,Man_15.png,3,3,1,2,3,2,SEARCH,Chercheur,N'est pas impacté par les soldats lors d'une action Fouiller.,2.4375
+AC,Sarah Maddocks,Woman_2.png,0,3,3,1,2,3,SPY,Espion,N'est pas impacté par les soldats lors d'une action Enquêter.,1.71875
+AE,Amelia Randles,Woman_3.png,0,3,2,1,3,3,HOPE,Aura d'espoir,Empêche l'arrivée de soldats ennemis dans le lieu où le personnage est présent + les lieux voisins.,1.5

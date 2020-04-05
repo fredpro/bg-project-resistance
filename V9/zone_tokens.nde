@@ -1,12 +1,14 @@
-﻿CARDSIZE=1.5,1.5
+﻿CARDSIZE=2,2
+LINKMULTI=Taille
 link=zone_data.txt
 
 [all]="1-{(ID)*2}"
 [all_recto]="1-{(ID)}"
 [all_verso]="{(ID)+1}-{(ID)*2}"
 [middle]="center", "center"
-[pos_lbl_name]=0,0,1.5,1.5,[middle]
-[pos_lbl_verso]=0,0,1.5,1.5,[middle]
+[pos_bg]=0,0,2,2
+[pos_lbl_name]=0,0,2,2,[middle]
+[pos_lbl_verso]=0,0,2,2,[middle]
 
 [color_NO_3]=#002980ff
 [color_NO_2]=#4180ffff
@@ -23,47 +25,51 @@ link=zone_data.txt
 
 IF=[Region]="NO"
     IF=[Taille]=3
-        rectangle=[all],0,0,1.5,1.5,[color_NO_3]
+        rectangle=[all_recto],[pos_bg],[color_NO_3]
     ELSEIF=[Taille]=2
-        rectangle=[all],0,0,1.5,1.5,[color_NO_2]
+        rectangle=[all_recto],[pos_bg],[color_NO_2]
     ELSEIF=[Taille]=1
-        rectangle=[all],0,0,1.5,1.5,[color_NO_1]
+        rectangle=[all_recto],[pos_bg],[color_NO_1]
     ENDIF
+    rectangle=[all_verso],[pos_bg],[color_NO_1]
 ELSEIF=[Region]="NE"
     IF=[Taille]=3
-        rectangle=[all],0,0,1.5,1.5,[color_NE_3]
+        rectangle=[all_recto],[pos_bg],[color_NE_3]
     ELSEIF=[Taille]=2
-        rectangle=[all],0,0,1.5,1.5,[color_NE_2]
+        rectangle=[all_recto],[pos_bg],[color_NE_2]
     ELSEIF=[Taille]=1
-        rectangle=[all],0,0,1.5,1.5,[color_NE_1]
+        rectangle=[all_recto],[pos_bg],[color_NE_1]
     ENDIF
+    rectangle=[all_verso],[pos_bg],[color_NE_1]
 ELSEIF=[Region]="SE"
     IF=[Taille]=3
-        rectangle=[all],0,0,1.5,1.5,[color_SE_3]
+        rectangle=[all_recto],[pos_bg],[color_SE_3]
     ELSEIF=[Taille]=2
-        rectangle=[all],0,0,1.5,1.5,[color_SE_2]
+        rectangle=[all_recto],[pos_bg],[color_SE_2]
     ELSEIF=[Taille]=1
-        rectangle=[all],0,0,1.5,1.5,[color_SE_1]
+        rectangle=[all_recto],[pos_bg],[color_SE_1]
     ENDIF
+    rectangle=[all_verso],[pos_bg],[color_SE_1]
 ELSEIF=[Region]="SO"
     IF=[Taille]=3
-        rectangle=[all],0,0,1.5,1.5,[color_SO_3]
+        rectangle=[all_recto],[pos_bg],[color_SO_3]
     ELSEIF=[Taille]=2
-        rectangle=[all],0,0,1.5,1.5,[color_SO_2]
+        rectangle=[all_recto],[pos_bg],[color_SO_2]
     ELSEIF=[Taille]=1
-        rectangle=[all],0,0,1.5,1.5,[color_SO_1]
+        rectangle=[all_recto],[pos_bg],[color_SO_1]
     ENDIF
+    rectangle=[all_verso],[pos_bg],[color_SO_1]
 ENDIF
 
 IF=[Taille]=3
-    font="arial",14,TB,#FFFFFF
-    text=[all],[ID],[pos_lbl_name]
+    font="arial",18,TB,#FFFFFF
+    text=[all_recto],[ID],[pos_lbl_name]
 ELSEIF=[Taille]=2
-    font="arial",13,TB,#000000
-    text=[all],[ID],[pos_lbl_name]
+    font="arial",16,TB,#000000
+    text=[all_recto],[ID],[pos_lbl_name]
 ELSE
-    font="arial",12,TB,#000000
-    text=[all],[ID],[pos_lbl_name]
+    font="arial",14,TB,#000000
+    text=[all_recto],[ID],[pos_lbl_name]
 ENDIF
 
 PAGE=21,29.7,PORTRAIT,HV
